@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Sam PipeFlare Banner.jpg
-coverY: 0
+coverY: 1.5987211554602254e-14
 ---
 
 # Samuel J. Allen

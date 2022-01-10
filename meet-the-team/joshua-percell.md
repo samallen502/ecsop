@@ -1,5 +1,5 @@
 ---
-coverY: 0
+coverY: -50.32199546485261
 cover: ../.gitbook/assets/sullivan-university-dupont-campus.jpg
 ---
 

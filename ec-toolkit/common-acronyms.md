@@ -1,5 +1,7 @@
 ---
 description: You'll encounter acronyms at SU and in this SOP.  Gain fluency here.
+cover: ../.gitbook/assets/alphabet_help-700x350.jpg
+coverY: -26.19047619047619
 ---
 
 # 🔤 Common Acronyms

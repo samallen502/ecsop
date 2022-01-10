@@ -1,2 +1,2 @@
-# Processing Scholarship Approval Requests
+# 💰 Processing Scholarship Approval Requests
 

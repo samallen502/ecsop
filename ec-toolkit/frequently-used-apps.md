@@ -1,5 +1,7 @@
 ---
 description: These are apps to use often — tools of the trade, if you will.
+cover: ../.gitbook/assets/tools.jpg
+coverY: 0
 ---
 
 # 🛠 Frequently Used Apps

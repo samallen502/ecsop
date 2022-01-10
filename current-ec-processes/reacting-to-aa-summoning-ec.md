@@ -1,4 +1,4 @@
-# Reacting to AA Summoning EC
+# 👀 Reacting to AA Summoning EC
 
 #### 1. Once applicant has CN profile, AA summons EC by providing SID
 
