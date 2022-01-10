@@ -6,6 +6,8 @@ coverY: 0
 
 # 🛠 Frequently Used Apps
 
+* [ ] **Test**
+
 #### CampusNexus
 
 Function: SIS for applicants and active students

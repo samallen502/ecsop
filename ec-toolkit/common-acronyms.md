@@ -11,21 +11,25 @@ coverY: -26.19047619047619
 * ADOA: Associate Director of Admissions
 * ADOFP: Associate Director of Financial Planning
 * DOB: Date Of Birth
+* CGPA: Cumulative Grade Point Average
 * CN: CampusNexus
 * CNA: CampusNexus Activities
 * CND: CampusNexus Documents
 * CNSM: CampusNexus Student Master
 * COP: College Of Pharmacy
+* DEP: Dependent (Financial Aid filing status)
 * DOE: Department Of Education (US Department of Education)
 * EC: Enrollment Coordinator
 * EFC: Expected Family Contribution (FAFSA score indicative of financial need)
-* FA: Financial Aid FAFSA: Free Application for Federal Student Aid
+* FA: Financial Aid
+* FAFSA: Free Application for Federal Student Aid
 * FPA: Financial Planning Appointment
 * FPC: Financial Planning Coordinator
 * FPPA: Financial Planning Preparatory Appointment
 * FSA: Federal Student Aid (governmental organization who oversees FAFSA)
 * GPA: Grade Point Average
 * HR: Human Resources
+* IND: Independent (Financial Aid filing status)
 * IRS: Internal Revenue Service
 * IRS DRT: Internal Revenue Service Data Retrieval Tool (FAFSA feature)
 * ISAF: Institutional Scholarship Acknowledgement Form
