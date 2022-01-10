@@ -6,6 +6,7 @@ coverY: -26.19047619047619
 
 # 🔤 Common Acronyms
 
+* 2FA: Two-Factor Authentication
 * AA: Admissions Advisor
 * ADOA: Associate Director of Admissions
 * ADOFP: Associate Director of Financial Planning

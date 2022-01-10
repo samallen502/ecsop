@@ -48,6 +48,12 @@ Additional info: See "Use Case 2" of following file:
 Working remotely but can't upload to CND? Here's a solution.
 {% endfile %}
 
+**Microsoft Authenticator**
+
+Function: 2FA
+
+One-time Download Page (launch from mobile device thereafter): [https://support.microsoft.com/en-us/account-billing/download-and-install-the-microsoft-authenticator-app-351498fc-850a-45da-b7b6-27e523b8702a](https://support.microsoft.com/en-us/account-billing/download-and-install-the-microsoft-authenticator-app-351498fc-850a-45da-b7b6-27e523b8702a)
+
 #### Paycor Time Clock
 
 Function: Allows staff to clock in/out
