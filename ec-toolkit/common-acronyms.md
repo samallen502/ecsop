@@ -15,6 +15,7 @@ coverY: -26.19047619047619
 * CNA: CampusNexus Activities
 * CND: CampusNexus Documents
 * CNSM: CampusNexus Student Master
+* COP: College Of Pharmacy
 * DOE: Department Of Education (US Department of Education)
 * EC: Enrollment Coordinator
 * EFC: Expected Family Contribution (FAFSA score indicative of financial need)
