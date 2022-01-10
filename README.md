@@ -1,7 +1,7 @@
 ---
 description: >-
-  This SOP outlines the various duties performed by an Enrollment Coordinator at
-  Sullivan University.
+  This SOP outlines the various duties performed by Enrollment Coordinators at
+  various Sullivan University campuses.
 cover: .gitbook/assets/SU header.jpg
 coverY: 0
 ---

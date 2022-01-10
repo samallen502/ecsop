@@ -2,7 +2,7 @@
 description: You'll encounter acronyms at SU and in this SOP.  Gain fluency here.
 ---
 
-# Common Acronyms
+# 🔤 Common Acronyms
 
 * AA: Admissions Advisor
 * ADOA: Associate Director of Admissions

@@ -1,5 +1,6 @@
 ---
 coverY: 0
+cover: ../.gitbook/assets/SU Lexington.jpg
 ---
 
 # Savannah Slusher

@@ -1,2 +1,2 @@
-# Email Templates
+# 📄 Email Templates
 

@@ -11,8 +11,8 @@
 
 ## EC Toolkit
 
-* [Common Acronyms](ec-toolkit/common-acronyms.md)
-* [Frequently Used Apps](ec-toolkit/frequently-used-apps.md)
+* [🔤 Common Acronyms](ec-toolkit/common-acronyms.md)
+* [🛠 Frequently Used Apps](ec-toolkit/frequently-used-apps.md)
 
 ## Current EC Processes
 
@@ -52,8 +52,8 @@
 
 ## Other Useful Info
 
-* ["Can't Say" Items](other-useful-info/cant-say-items.md)
-* [Email Templates](other-useful-info/email-templates/README.md)
+* [🤐 "Can't Say" Items](other-useful-info/cant-say-items.md)
+* [📄 Email Templates](other-useful-info/email-templates/README.md)
   * [First Contact w/ Student](other-useful-info/email-templates/first-contact-w-student.md)
   * [REQUEST: Schedule VFPA](other-useful-info/email-templates/request-schedule-vfpa/README.md)
     * [Sched VFPA](other-useful-info/email-templates/request-schedule-vfpa/sched-vfpa.md)

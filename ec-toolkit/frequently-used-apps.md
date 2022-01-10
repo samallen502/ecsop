@@ -2,7 +2,7 @@
 description: These are apps to use often — tools of the trade, if you will.
 ---
 
-# Frequently Used Apps
+# 🛠 Frequently Used Apps
 
 #### CampusNexus
 
