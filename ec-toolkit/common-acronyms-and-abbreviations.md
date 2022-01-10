@@ -4,10 +4,11 @@ cover: ../.gitbook/assets/alphabet_help-700x350.jpg
 coverY: -26.19047619047619
 ---
 
-# 🔤 Common Acronyms
+# 🔤 Common Acronyms & Abbreviations
 
 * 2FA: Two-Factor Authentication
 * AA: Admissions Advisor
+* ADMGenCom: "ADM - General Comments" activity within CampusNexus (AA's interview notes)
 * ADOA: Associate Director of Admissions
 * ADOFP: Associate Director of Financial Planning
 * DOB: Date Of Birth
@@ -38,6 +39,7 @@ coverY: -26.19047619047619
 * NDS: Non-Degree Seeking
 * PDF: Portable Document Format (file type native to Adobe Acrobat Reader and preferred for CND uploads due to its universality across platforms)
 * PLUS: Parent Loan for Undergraduate Students
+* Q1Q2Q3: Quarter 1, Quarter 2, & Quarter 3 projected academic schedule
 * SID: Student ID
 * SOP: Standard Operating Procedure
 * SIS: Student Information System

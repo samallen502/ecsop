@@ -11,7 +11,7 @@
 
 ## EC Toolkit
 
-* [🔤 Common Acronyms](ec-toolkit/common-acronyms.md)
+* [🔤 Common Acronyms & Abbreviations](ec-toolkit/common-acronyms-and-abbreviations.md)
 * [🛠 Frequently Used Apps](ec-toolkit/frequently-used-apps.md)
 
 ## Current EC Processes
