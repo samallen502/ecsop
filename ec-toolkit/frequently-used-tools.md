@@ -39,6 +39,18 @@ Working remotely but can't upload to CND? Here's a solution.
 * [ ] **Sullivan University Course Catalog**
   * [ ] Function: Useful for finding scholarship information
   * [ ] Launch page: [https://www.sullivan.edu/academic-catalogs](https://www.sullivan.edu/academic-catalogs)
+* [ ] **Sullivan University Time Clock**
+  * [ ] Function: As hourly employees, you will need to punch in and out throughout the day.
+  * [ ] Launch page: [https://time.paycor.com/ess/83780](https://time.paycor.com/ess/83780)
+
+{% hint style="danger" %}
+During your first shift of the day, take a lunch somewhere between the 3.0-5.0 hourly marks.  It is a violation of state and federal law to take your lunch beyond the 5.0 hourly mark.
+{% endhint %}
+
+{% hint style="danger" %}
+Generally, overtime is disallowed outside of the Blackout Period, which typically allows 4.0 hours of overtime weekly.  Consult your manager for specifics.
+{% endhint %}
+
 * [ ] **Velocify**
   * [ ] Function: SIS for prospective students
   * [ ] Launch page: [https://lm.velocify.com/Web/Login.aspx](https://lm.velocify.com/Web/Login.aspx)
