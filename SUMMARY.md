@@ -53,6 +53,7 @@
 ## Other Useful Info
 
 * [🤐 "Can't Say" Items](other-useful-info/cant-say-items.md)
+* [⚫ Blackout Scheduling Rules](other-useful-info/blackout-scheduling-rules.md)
 * [🖥 Templates for CampusNexus](other-useful-info/templates-for-campusnexus.md)
 * [📄 Templates for Email](other-useful-info/templates-for-email/README.md)
   * [First Contact w/ Student](other-useful-info/templates-for-email/first-contact-w-student.md)
