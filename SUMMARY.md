@@ -12,7 +12,7 @@
 ## EC Toolkit
 
 * [🔤 Common Acronyms & Abbreviations](ec-toolkit/common-acronyms-and-abbreviations.md)
-* [🛠 Frequently Used Apps](ec-toolkit/frequently-used-apps.md)
+* [🛠 Frequently Used Tools](ec-toolkit/frequently-used-tools.md)
 
 ## Current EC Processes
 
@@ -65,3 +65,4 @@
   * [Confirmation of VFPA](other-useful-info/templates-for-email/confirmation-of-vfpa/README.md)
     * [for IND](other-useful-info/templates-for-email/confirmation-of-vfpa/for-ind/README.md)
       * [via Phone & Email](other-useful-info/templates-for-email/confirmation-of-vfpa/for-ind/via-phone-and-email.md)
+* [📗 Staff Manual](other-useful-info/staff-manual.md)

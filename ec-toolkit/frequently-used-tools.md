@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/tools.jpg
 coverY: 0
 ---
 
-# 🛠 Frequently Used Apps
+# 🛠 Frequently Used Tools
 
 * [ ] **CampusNexus — Cloud Version**
   * [ ] Function: SIS for applicants and active students
@@ -36,6 +36,9 @@ coverY: 0
 Working remotely but can't upload to CND? Here's a solution.
 {% endfile %}
 
+* [ ] **Sullivan University Course Catalog**
+  * [ ] Function: Useful for finding scholarship information
+  * [ ] Launch page: [https://www.sullivan.edu/academic-catalogs](https://www.sullivan.edu/academic-catalogs)
 * [ ] **Velocify**
   * [ ] Function: SIS for prospective students
   * [ ] Launch page: [https://lm.velocify.com/Web/Login.aspx](https://lm.velocify.com/Web/Login.aspx)
