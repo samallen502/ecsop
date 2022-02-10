@@ -56,7 +56,7 @@
 * [⚫ Blackout Scheduling Rules](other-useful-info/blackout-scheduling-rules.md)
 * [🖥 Templates for CampusNexus](other-useful-info/templates-for-campusnexus.md)
 * [📄 Templates for Email](other-useful-info/templates-for-email/README.md)
-  * [First Contact w/ Student](other-useful-info/templates-for-email/first-contact-w-student.md)
+  * [First Contact w/ Student Using FA](other-useful-info/templates-for-email/first-contact-w-student-using-fa.md)
   * [REQUEST: Schedule VFPA](other-useful-info/templates-for-email/request-schedule-vfpa/README.md)
     * [Sched VFPA](other-useful-info/templates-for-email/request-schedule-vfpa/sched-vfpa.md)
   * [Confirmation of VFPPA](other-useful-info/templates-for-email/confirmation-of-vfppa/README.md)
