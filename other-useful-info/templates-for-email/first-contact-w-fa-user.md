@@ -1,4 +1,4 @@
-# First Contact w/ Student Using FA
+# First Contact w/ FA User
 
 **Subject:** Next Steps with Sullivan University
 
