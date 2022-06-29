@@ -5,6 +5,7 @@
 ## Meet The Team
 
 * [Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
+* [Julie Ratliff](meet-the-team/julie-ratliff.md)
 * [Savannah Slusher](meet-the-team/savannah-slusher.md)
 * [Joshua Percell](meet-the-team/joshua-percell.md)
 * [Non-ECs](meet-the-team/non-ecs.md)

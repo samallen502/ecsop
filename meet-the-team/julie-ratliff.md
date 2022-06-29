@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/Sam PipeFlare Banner.jpg
+cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
 
-# Samuel J. Allen
+# Julie Ratliff
 
 Enrollment Coordinator & Military Liaison :flag\_us: — Campus: 3101 Bardstown Rd (Louisville, KY)
 

@@ -8,7 +8,7 @@ coverY: 0
 
 * [ ] **CampusNexus — Cloud Version**
   * [ ] Function: SIS for applicants and active students
-  * [ ] Launch Page: [https://cnwc.sullivan.edu/](https://cnwc.sullivan.edu)
+  * [ ] Launch Page: [https://cnwc.sullivan.edu/](https://cnwc.sullivan.edu/)
 * [ ] **CampusNexus — Legacy Version**
   * [ ] Function: SIS for applicants and active students
   * [ ] Launch page: [https://100552.campusnexus.cloud/logon/LogonPoint/index.html](https://100552.campusnexus.cloud/logon/LogonPoint/index.html)
@@ -20,7 +20,7 @@ coverY: 0
   * [ ] One-time Download Page (launch from mobile device thereafter): [https://support.microsoft.com/en-us/account-billing/download-and-install-the-microsoft-authenticator-app-351498fc-850a-45da-b7b6-27e523b8702a](https://support.microsoft.com/en-us/account-billing/download-and-install-the-microsoft-authenticator-app-351498fc-850a-45da-b7b6-27e523b8702a)
 * [ ] **Microsoft Teams**
   * [ ] Function: Interdepartmental communication; VFPAs between FPCs and applicants
-  * [ ] Launch page: [https://teams.microsoft.com/](https://teams.microsoft.com)
+  * [ ] Launch page: [https://teams.microsoft.com/](https://teams.microsoft.com/)
 * [ ] **Mongoose Cadence**
   * [ ] Function: Texting system to communicate with clients
   * [ ] Launch Page: [https://sms.mongooseresearch.com/#/login](https://sms.mongooseresearch.com/#/login)
