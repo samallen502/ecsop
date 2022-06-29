@@ -20,13 +20,19 @@ Sam was hired December 2010.  Sam's work style can best be described as applying
 ## Personal Bio
 
 {% hint style="info" %}
-Home(s): [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+40223/@38.2550652,-85.615672,12z/data=!3m1!4b1!4m5!3m4!1s0x88699f143b5d95a1:0xb67e92f9977eedfc!8m2!3d38.2586184!4d-85.5457689); [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
+🏠 Home(s): [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+40223/@38.2550652,-85.615672,12z/data=!3m1!4b1!4m5!3m4!1s0x88699f143b5d95a1:0xb67e92f9977eedfc!8m2!3d38.2586184!4d-85.5457689); [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
 
-Interest(s): Decentralized finance :coin:; Web3 :computer:
+🤓 Interest(s): Decentralized finance :coin:; Web3 :computer:
 
 &#x20;    :coin: Favorite Coin(s): [BTC](https://invite.strike.me/E79L0H); [1FLR](https://pipeflare.io/r/6va4); [MATIC](https://coinmarketcap.com/currencies/polygon/); [ZEC](https://coinmarketcap.com/currencies/zcash/); [BSV](https://coinmarketcap.com/currencies/bitcoin-sv/)
 
 Favorite Food(s): Protein :meat\_on\_bone: :cheese:; Caffeine :coffee:
+
+&#x20;    :meat\_on\_bone: Protein: [Kirkland Steak Strips](https://www.costco.com/kirkland-signature-premium-extra-thick-steak-strips%2C-12-oz.product.100333696.html); [Kirkland Fresh Mozzarella](https://www.costcobusinessdelivery.com/kirkland-signature-fresh-mozzarella-cheese-slices%2C-18-oz%2C-2-ct.product.100357165.html); [Quest Bars](https://www.questnutrition.com/products/white-chocolate-raspberry-box-of-12)
+
+&#x20;    :coffee: Caffeine: Starbucks (Flat White, Venti, Blonde Espresso, 1 Scoop Vanilla Bean&#x20;
+
+&#x20;                          Powder, 4 Shots); [Celsius](https://www.costco.com/celsius-sparkling-fitness-drink%2C-variety-pack%2C-12-fl-oz%2C-15-count.product.100645376.html); [Bang](https://www.costco.com/bang-energy-drink%2c-delish-strawberry-kiss%2c-16-fl-oz%2c-12-count.product.100734924.html)
 
 Favorite Podcast(s): [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485); [Something to Wrestle](https://podcasts.apple.com/us/podcast/something-to-wrestle-with-bruce-prichard/id1139391156)
 
