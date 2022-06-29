@@ -5,34 +5,32 @@ coverY: 0
 
 # Julie Ratliff
 
-Enrollment Coordinator & Military Liaison :flag\_us: — Campus: 3101 Bardstown Rd (Louisville, KY)
+Enrollment Coordinator — Campus: 3101 Bardstown Rd (Louisville, KY)
 
-Communication Preferences: :purple\_circle: Teams | :e-mail: sallen@sullivan.edu | :telephone: (502) 413-8565
+Communication Preferences: :purple\_circle: Teams | :e-mail: jratliff@sullivan.edu | :telephone: (502) 413-8547
 
-![](../.gitbook/assets/Sam\_edit.jpg)
+![](../.gitbook/assets/unisex-avatar.png)
 
 ## Professional Bio
 
 {% hint style="info" %}
-Sam was hired December 2010.  Sam's work style can best be described as applying due diligence, then executing next steps — in that order (because Sam believes that the ECs truly should be called Chaos Controllers, therefore Sam sees but 2 ways to perform any task: correctly; and again).  Sam also strongly believes in solving problems with a "tech first" approach, so Sam is quick to log activity notes within shared databases or provide FAFSA help remotely by default.  Sam created the original Kentucky Residency Determination (KRD) process, the original EC SOP, and this reimagined EC SOP.  Sam also became a Military Liaison circa April 2019, 4 months after concluding 21 months of service as SU's Project Manager, merging multiple campuses into one.  For more information about Sam's work history, including awards earned while with SU, see [LinkedIn](https://www.linkedin.com/in/samallen502/).
+
 {% endhint %}
 
 ## Personal Bio
 
 {% hint style="info" %}
-Home(s): [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+40223/@38.2550652,-85.615672,12z/data=!3m1!4b1!4m5!3m4!1s0x88699f143b5d95a1:0xb67e92f9977eedfc!8m2!3d38.2586184!4d-85.5457689); [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
+Home(s):&#x20;
 
-Interest(s): Decentralized finance :coin:; Web3 :computer:
+Interest(s):
 
-&#x20;    :coin: Favorite Coin(s): [BTC](https://invite.strike.me/E79L0H); [1FLR](https://pipeflare.io/r/6va4); [MATIC](https://coinmarketcap.com/currencies/polygon/); [ZEC](https://coinmarketcap.com/currencies/zcash/); [BSV](https://coinmarketcap.com/currencies/bitcoin-sv/)
+Favorite Food(s):&#x20;
 
-Favorite Food(s): Protein :meat\_on\_bone: :cheese:; Caffeine :coffee:
+Favorite Podcast(s):&#x20;
 
-Favorite Podcast(s): [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485); [Something to Wrestle](https://podcasts.apple.com/us/podcast/something-to-wrestle-with-bruce-prichard/id1139391156)
+Pet(s):&#x20;
 
-Pet(s): Dog (Ruger, brindle miniature dachshund)
+Alma Mater(s):&#x20;
 
-Alma Mater(s): 🔴⚫ [University of Louisville](https://louisville.edu/) '07 '08; 🔵⚪ [Paintsville High School](https://sites.google.com/paintsville.kyschools.us/paintsville/home) '03
-
-Hometown: [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
+Hometown:&#x20;
 {% endhint %}
