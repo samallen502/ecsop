@@ -1,15 +1,15 @@
 ---
-coverY: -50.32199546485261
 cover: ../.gitbook/assets/sullivan-university-dupont-campus.jpg
+coverY: -50.32199546485261
 ---
 
-# Joshua Percell
+# DuPont EC
 
 Enrollment Coordinator — Campus: 4000 Dupont Circle (Louisville, KY)
 
-Communication Preferences: :purple\_circle: Teams | :e-mail: jpercell@sullivan.edu | :telephone: (502) 447-1000 x7812
+Communication Preferences: :purple\_circle: Teams | :e-mail: XXX@sullivan.edu | :telephone: (502) 447-1000 xXXXX
 
-![](../.gitbook/assets/Josh.png)
+![](../.gitbook/assets/unisex-avatar.png)
 
 ## Professional Bio
 

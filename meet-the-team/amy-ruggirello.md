@@ -1,13 +1,13 @@
 ---
-coverY: 0
 cover: ../.gitbook/assets/SU Lexington.jpg
+coverY: 0
 ---
 
-# Savannah Slusher
+# Amy Ruggirello
 
 Enrollment Coordinator — Campus: 2355 Harrodsburg Rd (Lexington, KY)
 
-Communication Preferences: :purple\_circle: Teams | :e-mail: sslusher@sullivan.edu | :telephone: (859) 514-7650
+Communication Preferences: :purple\_circle: Teams | :e-mail: aruggirello@sullivan.edu | :telephone: (859) 514-XXXX
 
 ![](../.gitbook/assets/unisex-avatar.png)
 

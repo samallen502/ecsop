@@ -6,8 +6,8 @@
 
 * [Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
 * [Julie Ratliff](meet-the-team/julie-ratliff.md)
-* [Savannah Slusher](meet-the-team/savannah-slusher.md)
-* [Joshua Percell](meet-the-team/joshua-percell.md)
+* [Amy Ruggirello](meet-the-team/amy-ruggirello.md)
+* [DuPont EC](meet-the-team/dupont-ec.md)
 * [Non-ECs](meet-the-team/non-ecs.md)
 
 ## EC Toolkit
