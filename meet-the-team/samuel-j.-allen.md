@@ -20,11 +20,13 @@ Sam was hired December 2010.  Sam's work style can best be described as applying
 ## Personal Bio
 
 {% hint style="info" %}
-🏠 Home(s): [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+40223/@38.2550652,-85.615672,12z/data=!3m1!4b1!4m5!3m4!1s0x88699f143b5d95a1:0xb67e92f9977eedfc!8m2!3d38.2586184!4d-85.5457689); [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
+Home(s): [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+40223/@38.2550652,-85.615672,12z/data=!3m1!4b1!4m5!3m4!1s0x88699f143b5d95a1:0xb67e92f9977eedfc!8m2!3d38.2586184!4d-85.5457689); [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
 
-🤓 Interest(s): Decentralized finance :coin:; Web3 :computer:
+Interest(s): Decentralized finance :coin:; Web3 :computer:
 
 &#x20;    :coin: Favorite Coin(s): [BTC](https://invite.strike.me/E79L0H); [1FLR](https://pipeflare.io/r/6va4); [MATIC](https://coinmarketcap.com/currencies/polygon/); [ZEC](https://coinmarketcap.com/currencies/zcash/); [BSV](https://coinmarketcap.com/currencies/bitcoin-sv/)
+
+&#x20;    🖼️ Favorite NFT(s): [PipeFlare Pyro Collection](https://opensea.io/collection/pipeflarepyro) (for use on [PipeFlare](https://pipeflare.io/r/6va4))
 
 Favorite Food(s): Protein :meat\_on\_bone: :cheese:; Caffeine :coffee:
 
