@@ -20,11 +20,11 @@ Sam was hired December 2010.  Sam's work style can best be described as applying
 ## Personal Bio
 
 {% hint style="info" %}
-Home: [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+40223/@38.2550652,-85.615672,12z/data=!3m1!4b1!4m5!3m4!1s0x88699f143b5d95a1:0xb67e92f9977eedfc!8m2!3d38.2586184!4d-85.5457689)
+Home(s): [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+40223/@38.2550652,-85.615672,12z/data=!3m1!4b1!4m5!3m4!1s0x88699f143b5d95a1:0xb67e92f9977eedfc!8m2!3d38.2586184!4d-85.5457689); [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
 
 Interest(s): Decentralized finance :coin:; Web3 :computer:
 
-&#x20;    :coin: Favorite Coin(s): [1FLR](https://pipeflare.io/r/6va4); [BSV](https://coinmarketcap.com/currencies/bitcoin-sv/); [MATIC](https://coinmarketcap.com/currencies/polygon/); [ZEC](https://coinmarketcap.com/currencies/zcash/); [BTC](https://invite.strike.me/E79L0H)
+&#x20;    :coin: Favorite Coin(s): [BTC](https://invite.strike.me/E79L0H); [1FLR](https://pipeflare.io/r/6va4); [MATIC](https://coinmarketcap.com/currencies/polygon/); [ZEC](https://coinmarketcap.com/currencies/zcash/); [BSV](https://coinmarketcap.com/currencies/bitcoin-sv/)
 
 Favorite Food(s): Protein :meat\_on\_bone: :cheese:; Caffeine :coffee:
 
@@ -32,7 +32,7 @@ Favorite Podcast(s): [Darknet Diaries](https://podcasts.apple.com/us/podcast/dar
 
 Pet(s): Dog (Ruger, brindle miniature dachshund)
 
-Alma Mater: 🔴⚫ [University of Louisville](https://louisville.edu) '07 '08
+Alma Mater(s): 🔴⚫ [University of Louisville](https://louisville.edu/) '07 '08; 🔵⚪ [Paintsville High School](https://sites.google.com/paintsville.kyschools.us/paintsville/home) '03
 
 Hometown: [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
 {% endhint %}
