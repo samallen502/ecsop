@@ -34,7 +34,7 @@ Favorite Food(s): Protein :meat\_on\_bone: :cheese:; Caffeine :coffee:
 
 &#x20;    :coffee: Caffeine: Starbucks (Flat White, Venti, Blonde Espresso, 1 Scoop Vanilla Bean&#x20;
 
-&#x20;                          Powder, 4 Shots); [Celsius](https://www.costco.com/celsius-sparkling-fitness-drink%2C-variety-pack%2C-12-fl-oz%2C-15-count.product.100645376.html); [Bang](https://www.costco.com/bang-energy-drink%2c-delish-strawberry-kiss%2c-16-fl-oz%2c-12-count.product.100734924.html)
+&#x20;                          Powder, 4 Shots); [Celsius](https://www.costco.com/celsius-sparkling-fitness-drink%2C-variety-pack%2C-12-fl-oz%2C-15-count.product.100645376.html); [Bang](https://www.costco.com/bang-energy-drink%2c-delish-strawberry-kiss%2c-16-fl-oz%2c-12-count.product.100734924.html); [My Patriot Supply Franklin's Finest](https://mypatriotsupply.com/collections/long-term-food-storage/products/franklins-finest-survival-coffee-720)
 
 Favorite Podcast(s): [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485); [Something to Wrestle](https://podcasts.apple.com/us/podcast/something-to-wrestle-with-bruce-prichard/id1139391156)
 
