@@ -10,7 +10,7 @@ coverY: 0
 
 ## Welcome aboard!
 
-Welcome to the Enrollment Coordinator (EC) wiki! Here you'll find everything you need to know about the role — and, if not, you are encouraged to make an update. 😏
+Welcome to the Enrollment Coordinator (EC) wiki! Here you'll find everything you need to know about the EC role — and, if not (and you are an EC), you are encouraged to make an update. 😏
 
 {% hint style="warning" %}
 **Please write all updates to a new hire's knowledge level.  New hires will need this SOP the most.**
