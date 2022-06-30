@@ -48,7 +48,7 @@ description: >-
         * [ ] If APA-Numerical is greater than 265, proceed.  Otherwise, note that APA-Numerical is less than 265, which means MTH095 will be required.
     * [ ] If not, proceed.
   * [ ] Identify the financing type
-    * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7).png>)
+    * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
     * [ ] Select the "Document" header to alphabetically sort all documents
     *   [ ] Search for and highlight "ADM - Application for Enrollment"
 
@@ -72,16 +72,23 @@ description: >-
         * [ ] If "VA Benefits"...
           * [ ] ML to advise
         * [ ] If "Company-Paid Benefits"...
-          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7).png>)
+          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
           * [ ] Select the "Financial Aid" Module: ![](../../.gitbook/assets/image.png)
           * [ ] Select the "Document" header to alphabetically sort all documents
-          * [ ] Search for and highlight "FP - Company Pay Policy"
-            *
-        * [ ] If Military...
-        *
-        [ ]   *
-          [ ]   * [ ] Do we have one FAFSA or, if necessary, both FAFSAs?
-            * [ ] Is KRD approved?
-          * [ ] If CoPay, do we have a CoPayPol in CND?
-          *   [ ] If Military...
-
+          * [ ] Search for "FP - Company Pay Policy"
+            * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
+            * [ ] If no CoPayPol, ask AA to harvest CoPayPol and forward to EC when done
+        * [ ] If "Military Tuition Assistance"...
+          * [ ] ML to advise
+        * [ ] If "Yes" to "Are you currently service in the military (active duty or National Guard/Reserve)"...
+          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
+          * [ ] Select the "Document" header to alphabetically sort all documents
+          * [ ] Search for and highlight "ADM - Military Orders"
+            * [ ] Status of "Approved" means applicant will receive a military discount
+            * [ ] Status of "On File" means applicant _may_ receive a military discount _pending approval_
+            * [ ] If applicant desires discount consideration, applicant may provide:
+              * [ ] Leave & Earnings Statement (LES)
+              * [ ] Active Duty Military Orders
+              * [ ] Uniformed presence physically on-campus to AA, ML, or SCO
+        * [ ] Once done with your analysis, you should log in Velocify something similar to the following:
+          * [ ] ANALYSIS: ADMGenCom (6/27); 15/11/13 Q1Q2Q3; sum Q1Q2Q3 equals prog length, so OK; Fut for HVAC; APA-Num greater than 265, so MTH095 NOT required; KRD approved; clean 21-22 (IND); clean 22-23; ... NEXT: need BYOD yes/no; need conf FA/CASH (per 6/27 app); need sched VFPA -- BE SURE TO C\&P VELO GEN COM 6/30/2022 11:36a INTO EVENTUAL VFPA NOTES
