@@ -6,7 +6,13 @@ description: >-
 
 # 🤓 Analyzing CampusNexus
 
-* [ ] Check CampusNexus for VFPA Setup Prerequisites
+{% hint style="warning" %}
+
+{% endhint %}
+
+
+
+* [ ] Review CN for VFPA Setup Prerequisites
   * [ ] Does CampusNexus Activities feature an ADMGenCom?
     * [ ] In CampusNexus, navigate to Contact Manager > Activities
     * [ ] Sort by "Date Completed" column
