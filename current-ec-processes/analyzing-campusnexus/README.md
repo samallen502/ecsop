@@ -36,10 +36,17 @@ description: >-
 
         * [ ] Example:
 
-        ![](<../../.gitbook/assets/image (3).png>)
+        ![](<../../.gitbook/assets/image (3) (1).png>)
     * [ ] If Future, proceed.  Otherwise, monitor for Future status.
   * [ ] Per above step, is applicant enrolled in HVAC?
-    * [ ] If so, &#x20;
+    *   [ ] If so,  navigate in CampusNexus to Admissions > Tests > SU-APA > Numerical
+
+        * [ ] Example:&#x20;
+
+        &#x20;![](<../../.gitbook/assets/image (3).png>)
+
+        * [ ] If APA-Numerical is greater than 265, proceed.  Otherwise, note that APA-Numerical is less than 265, which means MTH095 will be required.
+    * [ ] If not, proceed.
   * [ ] Identify the financing type
     * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7).png>)
     * [ ] Select the "Document" header to alphabetically sort all documents
@@ -48,20 +55,33 @@ description: >-
         * [ ] If multiples, favor the application with the most recent "Requested" date
           * [ ] If multiples, favor the application with "use for acceptance" in comments
         * [ ] Select "Display Document"
-        * [ ] Select the "View Document" icon ![](<../../.gitbook/assets/image (2).png>)
+        * [ ] Select the "View Document" icon ![](<../../.gitbook/assets/image (2) (1).png>)
         * [ ] Look for an open one of these 2 documents:
 
-        ![](<../../.gitbook/assets/image (1).png>)
+        ![](<../../.gitbook/assets/image (1) (1).png>)
 
         * [ ] Search (CTRL-F) for "plan to pay"
-          * [ ] If "Financial Aid"...
-          * [ ] If "Self-Financing"...
-          * [ ] If CoPay,do we have a CoPayPol in CND?
-          * [ ] If Military...
-          *
-          [ ]   *
-            [ ]   * [ ] Do we have one FAFSA or, if necessary, both FAFSAs?
-              * [ ] Is KRD approved?
-            * [ ] If CoPay, do we have a CoPayPol in CND?
-            *   [ ] If Military...
+
+        ![](<../../.gitbook/assets/image (2).png>)
+
+        * [ ] If "Financial Aid"...
+          * [ ] KRD must be approved, denied, or no longer needed _unless_ ADOA declares KRD N/A for VFPA setup purposes
+          * [ ] 2021-22 FAFSA required for any applicant starting 7/1/2021-6/30/2022
+          * [ ] 2022-23 FAFSA required for any applicant starting 7/1/2022-6/30/2023
+        * [ ] If "Self-Financing"...applicant will make cash payments on a monthly or quarterly basis (TBD by FPC during eventual VFPA)
+        * [ ] If "VA Benefits"...
+          * [ ] ML to advise
+        * [ ] If "Company-Paid Benefits"...
+          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7).png>)
+          * [ ] Select the "Financial Aid" Module: ![](../../.gitbook/assets/image.png)
+          * [ ] Select the "Document" header to alphabetically sort all documents
+          * [ ] Search for and highlight "FP - Company Pay Policy"
+            *
+        * [ ] If Military...
+        *
+        [ ]   *
+          [ ]   * [ ] Do we have one FAFSA or, if necessary, both FAFSAs?
+            * [ ] Is KRD approved?
+          * [ ] If CoPay, do we have a CoPayPol in CND?
+          *   [ ] If Military...
 
