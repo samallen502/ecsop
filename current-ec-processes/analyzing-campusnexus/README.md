@@ -38,6 +38,8 @@ description: >-
 
         ![](<../../.gitbook/assets/image (3).png>)
     * [ ] If Future, proceed.  Otherwise, monitor for Future status.
+  * [ ] Per above step, is applicant enrolled in HVAC?
+    * [ ] If so, &#x20;
   * [ ] Identify the financing type
     * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7).png>)
     * [ ] Select the "Document" header to alphabetically sort all documents
