@@ -1,8 +1,8 @@
 ---
 description: >-
   Whenever an EC first encounters an applicant's records, an EC should perform
-  an ANALYSIS of the milestones met, then identify NEXT STEPS.  This will lend
-  reliable clarity at a glance later.
+  an ANALYSIS of the milestones met, then identify NEXT STEPS.  Later, this will
+  lend reliable clarity at a glance.
 ---
 
 # 🤓 Analyzing CampusNexus
