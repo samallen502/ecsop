@@ -35,6 +35,7 @@ coverY: -26.19047619047619
 * IRS DRT: Internal Revenue Service Data Retrieval Tool (FAFSA feature)
 * ISAF: Institutional Scholarship Acknowledgement Form
 * ISIR: Institutional Student Information Report (processed FAFSA data file SU receives)
+* KHEAA: Kentucky Higher Education Assistance Authority
 * KRD: Kentucky Residency Determination
 * NDS: Non-Degree Seeking
 * PDF: Portable Document Format (file type native to Adobe Acrobat Reader and preferred for CND uploads due to its universality across platforms)
