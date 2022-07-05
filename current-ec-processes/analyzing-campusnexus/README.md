@@ -69,7 +69,15 @@ description: >-
             * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
             * [ ] Select the "Admissions" Module: ![](<../../.gitbook/assets/image (9).png>)
             * [ ] Select the "Document" header to alphabetically sort all documents
-            * [ ] Search for "FP - Company Pay Policy"
+            * [ ] Search for "ADM - Kentucky Residency Determination"
+              * [ ] Ignore any review not conducted 12 months prior to the intended academic start date.
+              * [ ] Focus only on the review featuring the most recent date.
+              * [ ] If document is in a "requested" status, monitor document for any other status (as "requested" means KRD documents need to be submitted by applicant and reviewed by KRD Reviewer)
+              * [ ] If document is in an "insufficient" status, monitor for any of these final outcomes: approved; denied; no longer needed.
+                * [ ] "Approved" means applicant is eligible for potential CAP/KTG grants.
+                * [ ] "Denied" means applicant was disqualified from receiving CAP/KTG (reasons vary but defer to KRD Reviewer).
+                * [ ] "No Longer Needed" means applicant was disqualified from receiving CAP/KTG (reasons vary but defer to KRD reviewer).
+                *
           * [ ] 2021-22 FAFSA required for any applicant starting 7/1/2021-6/30/2022
           * [ ] 2022-23 FAFSA required for any applicant starting 7/1/2022-6/30/2023
           * [ ] As of 10/1/2022, 2023-24 FAFSA required for any applicant starting 7/1/2023-6/30/2024
