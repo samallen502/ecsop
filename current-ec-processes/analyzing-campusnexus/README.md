@@ -17,7 +17,7 @@ description: >-
 
           * [ ] Example:
 
-          <img src="../../.gitbook/assets/image (6).png" alt="" data-size="original">
+          <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
       * [ ] ADMGenCom may feature any content; activity just has to feature _some_ content
       * [ ] If no ADMGenCom, ask AA to add ADMGenCom and notify EC when done
   * [ ] Does EC know Q1Q2Q3?
@@ -29,7 +29,7 @@ description: >-
 
         * [ ] Example:&#x20;
 
-        ![](<../../.gitbook/assets/image (5).png>)
+        ![](<../../.gitbook/assets/image (5) (1).png>)
     * [ ] If the sum of Q1Q2Q3 is less than or equal to the total credit hours for the applicant's program of choice, accept Q1Q2Q3 as valid.  Otherwise, reject Q1Q2Q3 and ask AA directly to provide a Q1Q2Q3 that is equal to or less than the total credit hours for the student's program of choice.
   * [ ] Is applicant in Future status for a particular academic start date?
     *   [ ] In CampusNexus, navigate to Admissions > Status History
@@ -77,7 +77,20 @@ description: >-
                 * [ ] "Approved" means applicant is eligible for _potential_ CAP/KTG grants.
                 * [ ] "Denied" means applicant was disqualified from receiving CAP/KTG (reasons vary but defer to KRD Reviewer).
                 * [ ] "No Longer Needed" means applicant was disqualified from receiving CAP/KTG (reasons vary but defer to KRD reviewer).
-          * [ ] 2021-22 FAFSA required for any applicant starting 7/1/2021-6/30/2022
+          *   [ ] 2021-22 FAFSA required for any applicant starting 7/1/2021-6/30/2022
+
+              * [ ] Navigate to Financial Aid > ISIR
+
+              ![](../../.gitbook/assets/isir.JPG)
+
+              * [ ] Ensure Award Year is relevant: ![](<../../.gitbook/assets/image (5).png>)
+              * [ ] If ISIR displays and there is no C Code or Reject Code, regard ISIR as clean (error-free). Example:
+
+              ![](<../../.gitbook/assets/image (4).png>)
+
+              *
+              [ ] 
+
           * [ ] 2022-23 FAFSA required for any applicant starting 7/1/2022-6/30/2023
           * [ ] As of 10/1/2022, 2023-24 FAFSA required for any applicant starting 7/1/2023-6/30/2024
         * [ ] If "Self-Financing"...applicant will make cash payments on a monthly or quarterly basis (TBD by FPC during eventual VFPA)
@@ -92,7 +105,7 @@ description: >-
           * [ ] Select the "Financial Aid" Module: ![](../../.gitbook/assets/image.png)
           * [ ] Select the "Document" header to alphabetically sort all documents
           * [ ] Search for "FP - Company Pay Policy"
-            * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
+            * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4) (1).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
             * [ ] If no CoPayPol, ask AA to harvest CoPayPol and forward to EC when done
         * [ ] If "Military Tuition Assistance"...
           * [ ] Campus ML to advise.
