@@ -1,5 +1,7 @@
 ---
-description: Learn veteran maneuvers the easy way!
+description: >-
+  Implement these veteran moves into your day-to-day repertoire to maximize your
+  efficiency and effectiveness.
 coverY: 0
 ---
 
