@@ -66,16 +66,20 @@ description: >-
 
         * [ ] If "Financial Aid"...
           * [ ] KRD must be approved, denied, or no longer needed _unless_ ADOA declares KRD N/A for VFPA setup purposes
+            * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
+            * [ ] Select the "Admissions" Module: ![](<../../.gitbook/assets/image (9).png>)
+            * [ ] Select the "Document" header to alphabetically sort all documents
+            * [ ] Search for "FP - Company Pay Policy"
           * [ ] 2021-22 FAFSA required for any applicant starting 7/1/2021-6/30/2022
           * [ ] 2022-23 FAFSA required for any applicant starting 7/1/2022-6/30/2023
           * [ ] As of 10/1/2022, 2023-24 FAFSA required for any applicant starting 7/1/2023-6/30/2024
         * [ ] If "Self-Financing"...applicant will make cash payments on a monthly or quarterly basis (TBD by FPC during eventual VFPA)
         * [ ] If "VA Benefits"...
           * [ ] Campus ML to advise.
-            * [ ] Louisville: Sam Allen
-            * [ ] DuPont: Leah Schultz
-            * [ ] Lexington: Savannah Slusher
-            * [ ] All/Backup: Meshell LaBaun
+            * [ ] Louisville: Sam Allen; sallen@sullivan.edu
+            * [ ] DuPont: Leah Schultz; lschultz@sullivan.edu
+            * [ ] Lexington: Savannah Slusher; sslusher@sullivan.edu
+            * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
         * [ ] If "Company-Paid Benefits"...
           * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
           * [ ] Select the "Financial Aid" Module: ![](../../.gitbook/assets/image.png)
@@ -84,7 +88,11 @@ description: >-
             * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
             * [ ] If no CoPayPol, ask AA to harvest CoPayPol and forward to EC when done
         * [ ] If "Military Tuition Assistance"...
-          * [ ] ML to advise
+          * [ ] Campus ML to advise.
+            * [ ] Louisville: Sam Allen; sallen@sullivan.edu
+            * [ ] DuPont: Leah Schultz; lschultz@sullivan.edu
+            * [ ] Lexington: Savannah Slusher; sslusher@sullivan.edu
+            * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
         * [ ] If "Yes" to "Are you currently service in the military (active duty or National Guard/Reserve)"...
           * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
           * [ ] Select the "Document" header to alphabetically sort all documents
