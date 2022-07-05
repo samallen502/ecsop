@@ -48,7 +48,7 @@ description: >-
         * [ ] If APA-Numerical is greater than 265, proceed.  Otherwise, note that APA-Numerical is less than 265, which means MTH095 will be required.
     * [ ] If not, proceed.
   * [ ] Identify the financing type
-    * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
+    * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
     * [ ] Select the "Document" header to alphabetically sort all documents
     *   [ ] Search for and highlight "ADM - Application for Enrollment"
 
@@ -66,7 +66,7 @@ description: >-
 
         * [ ] If "Financial Aid"...
           * [ ] KRD must be approved, denied, or no longer needed _unless_ ADOA declares KRD N/A for VFPA setup purposes
-            * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
+            * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
             * [ ] Select the "Admissions" Module: ![](<../../.gitbook/assets/image (9).png>)
             * [ ] Select the "Document" header to alphabetically sort all documents
             * [ ] Search for "ADM - Kentucky Residency Determination"
@@ -83,16 +83,20 @@ description: >-
 
               ![](../../.gitbook/assets/isir.JPG)
 
-              * [ ] Ensure Award Year is relevant: ![](<../../.gitbook/assets/image (5).png>)
+              * [ ] Ensure Award Year is relevant: ![](<../../.gitbook/assets/image (6).png>)
               * [ ] If ISIR displays and there is no C Code or Reject Code, regard ISIR as clean (error-free). Example:
+
+              ![](<../../.gitbook/assets/image (5).png>)
+
+              * [ ] If ISIR displays and there is a C Code but no Reject Code, check Groups for Student to see if FP logged a "date off" so that C Code may safely be disregarded. Example:
 
               ![](<../../.gitbook/assets/image (4).png>)
 
-              *
-              [ ] 
-
+              * [ ] If ISIR displays and there is a C Code and/or Reject Code but no "date off" within Groups for Student, plan to schedule a Virtual Financial Planning Preparatory Appointment (VFPPA) for the applicant.
           * [ ] 2022-23 FAFSA required for any applicant starting 7/1/2022-6/30/2023
+            * [ ] For guidance, see section directly above but change Award Year to 2022-23.
           * [ ] As of 10/1/2022, 2023-24 FAFSA required for any applicant starting 7/1/2023-6/30/2024
+            * [ ] Most likely, CampusNexus will not be upgraded to show 2023-24 FAFSA until around 4/1/2023, so EC will need to secure 2023-24 FAFSA Confirmation Page Email featuring a Confirmation Number, Data Release Number, & EFC Score, then upload the email to CND
         * [ ] If "Self-Financing"...applicant will make cash payments on a monthly or quarterly basis (TBD by FPC during eventual VFPA)
         * [ ] If "VA Benefits"...
           * [ ] Campus ML to advise.
@@ -101,11 +105,11 @@ description: >-
             * [ ] Lexington: Savannah Slusher; sslusher@sullivan.edu
             * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
         * [ ] If "Company-Paid Benefits"...
-          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
+          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
           * [ ] Select the "Financial Aid" Module: ![](../../.gitbook/assets/image.png)
           * [ ] Select the "Document" header to alphabetically sort all documents
           * [ ] Search for "FP - Company Pay Policy"
-            * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4) (1).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
+            * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4) (1).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7) (1).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
             * [ ] If no CoPayPol, ask AA to harvest CoPayPol and forward to EC when done
         * [ ] If "Military Tuition Assistance"...
           * [ ] Campus ML to advise.
@@ -114,7 +118,7 @@ description: >-
             * [ ] Lexington: Savannah Slusher; sslusher@sullivan.edu
             * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
         * [ ] If "Yes" to "Are you currently service in the military (active duty or National Guard/Reserve)"...
-          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
+          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
           * [ ] Select the "Document" header to alphabetically sort all documents
           * [ ] Search for and highlight "ADM - Military Orders"
             * [ ] Status of "Approved" means applicant will receive a military discount
