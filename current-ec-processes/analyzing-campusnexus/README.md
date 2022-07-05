@@ -68,9 +68,14 @@ description: >-
           * [ ] KRD must be approved, denied, or no longer needed _unless_ ADOA declares KRD N/A for VFPA setup purposes
           * [ ] 2021-22 FAFSA required for any applicant starting 7/1/2021-6/30/2022
           * [ ] 2022-23 FAFSA required for any applicant starting 7/1/2022-6/30/2023
+          * [ ] As of 10/1/2022, 2023-24 FAFSA required for any applicant starting 7/1/2023-6/30/2024
         * [ ] If "Self-Financing"...applicant will make cash payments on a monthly or quarterly basis (TBD by FPC during eventual VFPA)
         * [ ] If "VA Benefits"...
-          * [ ] ML to advise
+          * [ ] Campus ML to advise.
+            * [ ] Louisville: Sam Allen
+            * [ ] DuPont: Leah Schultz
+            * [ ] Lexington: Savannah Slusher
+            * [ ] All/Backup: Meshell LaBaun
         * [ ] If "Company-Paid Benefits"...
           * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1).png>)
           * [ ] Select the "Financial Aid" Module: ![](../../.gitbook/assets/image.png)

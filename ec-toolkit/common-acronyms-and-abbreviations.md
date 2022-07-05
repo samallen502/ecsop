@@ -40,6 +40,7 @@ coverY: -26.19047619047619
 * PDF: Portable Document Format (file type native to Adobe Acrobat Reader and preferred for CND uploads due to its universality across platforms)
 * PLUS: Parent Loan for Undergraduate Students
 * Q1Q2Q3: Quarter 1, Quarter 2, & Quarter 3 projected academic schedule
+* SCO: School Certifying Official
 * SID: Student ID
 * SOP: Standard Operating Procedure
 * SIS: Student Information System
