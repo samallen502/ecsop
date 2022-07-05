@@ -7,7 +7,7 @@
 * [Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
 * [Julie Ratliff](meet-the-team/julie-ratliff.md)
 * [Amy Ruggirello](meet-the-team/amy-ruggirello.md)
-* [DuPont EC](meet-the-team/dupont-ec.md)
+* [Samantha Hayes](meet-the-team/samantha-hayes.md)
 * [Non-ECs](meet-the-team/non-ecs.md)
 
 ## EC Toolkit
