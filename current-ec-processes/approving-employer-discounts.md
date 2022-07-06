@@ -1,2 +1,2 @@
-# 💸 Processing Employer Discount Approval Requests
+# 💸 Approving Employer Discounts
 

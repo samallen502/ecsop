@@ -19,7 +19,7 @@
 ## Current EC Processes
 
 * [👀 Reacting to AA Summoning EC](current-ec-processes/reacting-to-aa-summoning-ec.md)
-* [🕵 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus/README.md)
+* [🔍 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus/README.md)
   * [Check CampusNexus for Prerequisites](current-ec-processes/analyzing-campusnexus/check-campusnexus-for-prerequisites.md)
   * [Identify Financing Type(s)](current-ec-processes/analyzing-campusnexus/identify-financing-type-s/README.md)
     * [Financial Aid](current-ec-processes/analyzing-campusnexus/identify-financing-type-s/financial-aid/README.md)
