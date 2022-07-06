@@ -19,7 +19,7 @@
 ## Current EC Processes
 
 * [👀 Reacting to AA Summoning EC](current-ec-processes/reacting-to-aa-summoning-ec.md)
-* [🤓 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus/README.md)
+* [🕵 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus/README.md)
   * [Check CampusNexus for Prerequisites](current-ec-processes/analyzing-campusnexus/check-campusnexus-for-prerequisites.md)
   * [Identify Financing Type(s)](current-ec-processes/analyzing-campusnexus/identify-financing-type-s/README.md)
     * [Financial Aid](current-ec-processes/analyzing-campusnexus/identify-financing-type-s/financial-aid/README.md)
@@ -29,7 +29,7 @@
     * [Military](current-ec-processes/analyzing-campusnexus/identify-financing-type-s/military.md)
     * [Cash](current-ec-processes/analyzing-campusnexus/identify-financing-type-s/cash.md)
 * [💰 Processing Scholarship Approval Requests](current-ec-processes/processing-scholarship-approval-requests.md)
-* [💸 Processing Employer Discount Approval Requests](current-ec-processes/processing-employer-discount-approval-requests.md)
+* [💸 Approving Employer Discounts](current-ec-processes/approving-employer-discounts.md)
 * [🧐 Conducting KRD Reviews](current-ec-processes/conducting-krd-reviews.md)
 * [🗓 Scheduling](current-ec-processes/scheduling/README.md)
   * [Financial Planning Preparatory Appointment](current-ec-processes/scheduling/financial-planning-preparatory-appointment/README.md)

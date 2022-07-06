@@ -5,7 +5,7 @@ description: >-
   lend reliable clarity at a glance.
 ---
 
-# 🤓 Analyzing CampusNexus
+# 🕵 Analyzing CampusNexus
 
 * [ ] Review CN for VFPA setup prerequisites
   * [ ] Does CampusNexus Activities feature an ADMGenCom?
