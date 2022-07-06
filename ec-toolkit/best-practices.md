@@ -18,6 +18,7 @@ coverY: 71.98185941043084
 * [ ] Within Velocify, keep ANALYSIS & NEXT notes updated constantly so that you or the AA can quickly CTRL-F for "NEXT" at any point and determine what comes next procedurally.  These notes require an up-front time investment initially but will serve you and your teammates well afterwards.
 * [ ] If applicant is 2-2.5 weeks away from academic start and applicant intends to use FA, harvest FAFSA Confirmation Page Email(s) and upload those to CND (as the emails can substitute for ISIRs).
 * [ ] Always hesitate to disclose applicant information to any third parties.  Third parties must be authorized on the applicant's FERPA Form (see last page of applicant's application).
+* [ ] Don't say "default" or "dependency override" but do say, "I'm going to pair you with a specialist in Financial Planning who can help you access financial aid."
 
 |   |
 | - |
