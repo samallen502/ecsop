@@ -19,6 +19,7 @@ coverY: 71.98185941043084
 * [ ] If applicant is 2-2.5 weeks away from academic start and applicant intends to use FA, harvest FAFSA Confirmation Page Email(s) and upload those to CND (as the emails can substitute for ISIRs).
 * [ ] Always hesitate to disclose applicant information to any third parties.  Third parties must be authorized on the applicant's FERPA Form (see last page of applicant's application).
 * [ ] Don't say "default" or "dependency override" but do say, "I'm going to pair you with a specialist in Financial Planning who can help you access financial aid."
+* [ ] Maximize time by leveraging email to communicate lengthier and more detailed ideas (such as setting up Virtual Financial Planning Appointments) via email, then draw attention to that email later by replying, sending texts with the timestamp, leaving voicemails to check an inbox for emails from a certain name sent on a certain day, etc.
 
 |   |
 | - |
