@@ -2,8 +2,8 @@
 description: >-
   Implement these veteran moves into your day-to-day repertoire to maximize your
   efficiency and effectiveness.
-cover: ../.gitbook/assets/bestpractice.jpeg
-coverY: 71.98185941043084
+cover: ../.gitbook/assets/Bulb-banner.jpg
+coverY: 0
 ---
 
 # ☝ Best Practices
