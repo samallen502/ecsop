@@ -21,6 +21,8 @@ coverY: 0
 * [ ] Always hesitate to disclose applicant information to any third parties.  Third parties must be authorized on the applicant's FERPA Form (see last page of applicant's application).
 * [ ] Don't say "default" or "dependency override" but do say, "I'm going to pair you with a specialist in Financial Planning who can help you access financial aid."
 * [ ] Maximize time by leveraging email to communicate lengthier and more detailed ideas (such as setting up Virtual Financial Planning Appointments) via email, then draw attention to that email later by replying, sending texts with the timestamp, leaving voicemails to check an inbox for emails from a certain name sent on a certain day, etc.
+* [ ] Anytime you are crafting an email to the student, keep the "To" line blank.  If you accidentally trigger sending, a failsafe will be in place.
+* [ ] If you accidentally send an email to an \*@sullivan.edu address, you can always retract.  However, retraction outside of the network does not work, so you're better of re-sending with "CORRECTION" leading the subject line.
 
 |   |
 | - |
