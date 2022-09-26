@@ -1,6 +1,6 @@
 # 👀 Reacting to AA Summoning EC
 
-* [ ] Once applicant has CN profile, AA summons EC by providing CN SID
+* [ ] Once applicant has CN profile, AA summons EC by providing CN SID via email, Teams message, phone call, and/or in-person communication
   * [ ] If no CN SID, EC should ask AA to re-notify EC once SID exists (because the EC needs CN profile to analyze and a way to track the applicant for progress).
 * [ ] Proceed to [Analyzing CampusNexus](analyzing-campusnexus/) section
 
