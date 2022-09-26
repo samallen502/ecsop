@@ -9,7 +9,7 @@ coverY: 0
 * [ ] **CampusNexus — Cloud Version**
   * [ ] Function: SIS for applicants and active students
   * [ ] Launch [here](https://cnwc.sullivan.edu/)
-* [ ] **CampusNexus — Legacy Version (preferred version circa October 2022)**
+* [ ] **CampusNexus — Legacy Version (**_**preferred version circa October 2022**_**)**
   * [ ] Function: SIS for applicants and active students
   * [ ] Launch [here](https://100552.campusnexus.cloud/logon/LogonPoint/index.html)
 * [ ] **EC SOP (2015-2022)**
@@ -25,12 +25,9 @@ coverY: 0
   * [ ] Function: Interdepartmental communication; VFPA platform between FPCs and applicants
   * [ ] Launch [here](https://teams.microsoft.com/)
 * [ ] **Mongoose Cadence**
-  * [ ] Function: Texting system to communicate with clients
+  * [ ] Function: Texting system to communicate with applicants
   * [ ] Launch [here](https://sms.mongooseresearch.com/#/login)
-* [ ] **Paycor Time Clock**
-  * [ ] Function: Allows staff to clock in/out
-  * [ ] Launch [here](https://time.paycor.com/ess/83780)
-* [ ] **RemoveSUSDepartments**
+* [ ] **RemoveSUSDepartments (**_**possibly unnecessary circa October 2022**_**)**
   * [ ] Function: Allows user to upload documents to CN remotely
   * [ ] Launch [here](companyportal:ApplicationId=62784b2e-b220-48bb-857f-8d69a5c0b801)
   * [ ] Additional info: See "Use Case 2" of following file:
@@ -40,8 +37,11 @@ Working remotely but can't upload to CND? Here's a solution.
 {% endfile %}
 
 * [ ] **Sullivan University Course Catalog**
-  * [ ] Function: Useful for finding scholarship information
+  * [ ] Function: Useful for finding scholarship information or program length
   * [ ] Launch [here](https://www.sullivan.edu/academic-catalogs)
+* [ ] **Sullivan University Product Knowledge**
+  * [ ] Function: Useful for finding program length
+  * [ ] Launch [here](https://sullivanedu.sharepoint.com.mcas.ms/sus/admissions/Training2/Forms/AllItems.aspx?id=%2Fsus%2Fadmissions%2FTraining2%2F2022%20Product%20Knowledge%20Binder%20with%20Tuition%20Changes\&viewid=8cd30b7e-acb6-4a72-872a-553b237973e4)
 * [ ] **Sullivan University Time Clock**
   * [ ] Function: As hourly employees, you will need to punch in and out throughout the day.
   * [ ] Launch [here](https://time.paycor.com/ess/83780)
