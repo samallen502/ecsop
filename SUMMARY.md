@@ -5,7 +5,7 @@
 ## Meet The Team
 
 * [Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
-* [Julie Ratliff](meet-the-team/julie-ratliff.md)
+* [TBD](meet-the-team/tbd.md)
 * [Amy Ruggirello](meet-the-team/amy-ruggirello.md)
 * [Samantha Hayes](meet-the-team/samantha-hayes.md)
 * [Non-ECs](meet-the-team/non-ecs.md)
