@@ -8,7 +8,7 @@ description: >-
 # 🔍 Analyzing CampusNexus
 
 * [ ] Review CN for VFPA setup prerequisites
-  * [ ] Does CampusNexus Activities feature an ADMGenCom?
+  * [ ] Does CampusNexus Activities feature an ADMGenCom featuring Q1Q2Q3?
     * [ ] In CampusNexus, navigate to Contact Manager > Activities
     * [ ] Sort by "Date Completed" column
     * [ ] Scroll down to the bottom of the menu
