@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Sam PipeFlare Banner.jpg
+cover: ../.gitbook/assets/btc.jpg
 coverY: 0
 ---
 
