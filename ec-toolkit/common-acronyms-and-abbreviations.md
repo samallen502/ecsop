@@ -10,18 +10,19 @@ coverY: -26.19047619047619
 * AA: Admissions Advisor
 * ADMGenCom: "ADM - General Comments" activity within CampusNexus (AA's interview notes)
 * ADOA: Associate Director of Admissions
-* ADOFP: Associate Director of Financial Planning
-* DOB: Date Of Birth
 * CGPA: Cumulative Grade Point Average
 * CN: CampusNexus
 * CNA: CampusNexus Activities
 * CND: CampusNexus Documents
 * CNSM: CampusNexus Student Master
+* COE: Certificate of Eligibility
 * COP: College Of Pharmacy
 * DEP: Dependent (Financial Aid filing status)
+* DOB: Date Of Birth
 * DOE: Department Of Education (US Department of Education)
 * EC: Enrollment Coordinator
 * EFC: Expected Family Contribution (FAFSA score indicative of financial need)
+* ETA: Estimated Time of Arrival
 * FA: Financial Aid
 * FAFSA: Free Application for Federal Student Aid
 * FPA: Financial Planning Appointment
@@ -37,11 +38,13 @@ coverY: -26.19047619047619
 * ISIR: Institutional Student Information Report (processed FAFSA data file SU receives)
 * KHEAA: Kentucky Higher Education Assistance Authority
 * KRD: Kentucky Residency Determination
+* ML: Military Liaison
 * NDS: Non-Degree Seeking
 * PDF: Portable Document Format (file type native to Adobe Acrobat Reader and preferred for CND uploads due to its universality across platforms)
 * PLUS: Parent Loan for Undergraduate Students
 * Q1Q2Q3: Quarter 1, Quarter 2, & Quarter 3 projected academic schedule
-* SADOF: Senior Associate Director of Financial Planning
+* SADOA: Senior Associate Director of Admissions
+* SADOFP: Senior Associate Director of Financial Planning
 * SCO: School Certifying Official
 * SID: Student ID
 * SOP: Standard Operating Procedure
@@ -49,9 +52,9 @@ coverY: -26.19047619047619
 * SSN: Social Security Number
 * SU: Sullivan University
 * SUS: Sullivan University System
+* TBD: To Be Determined
 * VA: Veterans Affairs
 * VFPA: Virtual Financial Planning Appointment
-* VFPO: Virtual Financial Planning Overview
 * VFPPA: Virtual Financial Planning Preparatory Appointment
 
 |   |

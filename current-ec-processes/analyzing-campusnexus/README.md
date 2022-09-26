@@ -18,10 +18,10 @@ description: >-
           * [ ] Example:
 
           <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
-      * [ ] ADMGenCom must feature Q1Q2Q3 plus any other content AA deems useful
+      * [ ] ADMGenCom may feature any content; activity just has to feature _some_ content
       * [ ] If no ADMGenCom, ask AA to add ADMGenCom and notify EC when done
   * [ ] Does EC know Q1Q2Q3?
-    * [ ] ADMGenCom should feature Q1Q2Q3; if not, AA may tell EC directly but EC should always ensure Q1Q2Q3 aligns with ADMGenCom's Q1Q2Q3 (and, if not, AA must update ADMGenCom).
+    * [ ] Q1Q2Q3 may be featured within ADMGenCom; alternatively, AA may tell EC directly.
     * [ ] Example: 12/12/12 = 12 hours for Quarter 1, Quarter 2, & Quarter 3
   * [ ] Is Q1Q2Q3 less than or equal to maximum program length?
     * [ ] Calculate the sum of Q1Q2Q3 (for example, 12/12/12 = 36)
@@ -31,7 +31,6 @@ description: >-
 
         ![](<../../.gitbook/assets/image (5) (1).png>)
     * [ ] If the sum of Q1Q2Q3 is less than or equal to the total credit hours for the applicant's program of choice, accept Q1Q2Q3 as valid.  Otherwise, reject Q1Q2Q3 and ask AA directly to provide a Q1Q2Q3 that is equal to or less than the total credit hours for the student's program of choice.
-      * [ ] Example: if given Q1Q2Q3 sums to 32 but program total is 24, Q1Q2Q3 may need to shift to 12/12/0 or program change may be needed (TBD by AA).&#x20;
   * [ ] Is applicant in Future status for a particular academic start date?
     *   [ ] In CampusNexus, navigate to Admissions > Status History
 
