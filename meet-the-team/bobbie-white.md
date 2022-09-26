@@ -1,4 +1,5 @@
 ---
+description: 'Specialty: FAFSA Assistance'
 cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---

@@ -1,9 +1,10 @@
 ---
+description: 'Specialty: Kentucky Residency Determination (KRD)'
 cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
 
-# TBD
+# SU-LOU EC2
 
 Enrollment Coordinator — Campus: 3101 Bardstown Rd (Louisville, KY)
 
