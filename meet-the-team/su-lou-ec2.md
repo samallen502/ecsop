@@ -1,5 +1,5 @@
 ---
-description: 'Specialty: Kentucky Residency Determination (KRD)'
+description: 'Alphabet Split: A-H | Specialty: Kentucky Residency Determination (KRD)'
 cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
