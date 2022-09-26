@@ -1,4 +1,5 @@
 ---
+description: 'Specialty: Military Benefits'
 cover: ../.gitbook/assets/btc.jpg
 coverY: 0
 ---
