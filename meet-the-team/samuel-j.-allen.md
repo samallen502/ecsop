@@ -24,7 +24,7 @@ Home(s): [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+4
 
 Interest(s): Decentralized finance :coin:; Web3 :computer:; Off-The-Grid (OTG) Living 🏕️
 
-&#x20;    :coin: Favorite Coin(s): [BTC](https://invite.strike.me/E79L0H); [1FLR](https://pipeflare.io/r/6va4); [MATIC](https://coinmarketcap.com/currencies/polygon/); [ZEC](https://coinmarketcap.com/currencies/zcash/); [BSV](https://coinmarketcap.com/currencies/bitcoin-sv/)
+&#x20;    :coin: Favorite Coin(s): [BTC](https://invite.strike.me/E79L0H); [1FLR](https://pipeflare.io/r/6va4); [MATIC](https://coinmarketcap.com/currencies/polygon/); [ZEC](https://coinmarketcap.com/currencies/zcash/)
 
 &#x20;    🖼️ Favorite NFT(s): [PipeFlare Pyro Collection](https://opensea.io/collection/pipeflarepyro) (for use on [PipeFlare](https://pipeflare.io/r/6va4))
 
