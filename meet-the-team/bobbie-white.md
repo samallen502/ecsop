@@ -1,5 +1,5 @@
 ---
-description: 'Specialty: FAFSA Assistance'
+description: 'Alphabet Split: I-P | Specialty: FAFSA Assistance'
 cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
