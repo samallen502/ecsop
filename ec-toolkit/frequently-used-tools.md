@@ -9,7 +9,7 @@ coverY: 0
 * [ ] **CampusNexus — Cloud Version**
   * [ ] Function: SIS for applicants and active students
   * [ ] Launch [here](https://cnwc.sullivan.edu/)
-* [ ] **CampusNexus — Legacy Version**
+* [ ] **CampusNexus — Legacy Version (preferred version circa October 2022)**
   * [ ] Function: SIS for applicants and active students
   * [ ] Launch [here](https://100552.campusnexus.cloud/logon/LogonPoint/index.html)
 * [ ] **EC SOP (2015-2022)**
