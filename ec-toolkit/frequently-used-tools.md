@@ -1,5 +1,5 @@
 ---
-description: These are apps to use often — tools of the trade, if you will.
+description: The tools of the trade most often used by ECs are listed here.
 cover: ../.gitbook/assets/tools.jpg
 coverY: 0
 ---
