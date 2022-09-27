@@ -1,2 +1,0 @@
-# Check CampusNexus for Prerequisites
-

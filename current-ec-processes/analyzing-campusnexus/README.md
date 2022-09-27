@@ -22,6 +22,7 @@ When first analyzing CampusNexus for VFPA readiness, always look for:
 4. Future status
 5. KRD approval _only if using FA with KY address_
 6. Clean 21-22 ISIR
+7. Clean 22-23 ISIR
 
 
 
@@ -33,7 +34,7 @@ If the above is NOT OK, the EC will track the student for progress until OK.
 
 
 
-&#x20;The remains of this section will explain how to analyze.
+The remainder of this section will explain how to analyze.
 {% endhint %}
 
 * [ ] Review CN for VFPA setup prerequisites

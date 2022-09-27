@@ -21,7 +21,6 @@
 
 * [👀 Reacting to AA Pinging EC](current-ec-processes/reacting-to-aa-pinging-ec.md)
 * [🔍 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus/README.md)
-  * [Check CampusNexus for Prerequisites](current-ec-processes/analyzing-campusnexus/check-campusnexus-for-prerequisites.md)
   * [Non-FA Financing Types](current-ec-processes/analyzing-campusnexus/non-fa-financing-types/README.md)
     * [Military](current-ec-processes/analyzing-campusnexus/non-fa-financing-types/military.md)
     * [Company Pay](current-ec-processes/analyzing-campusnexus/non-fa-financing-types/company-pay.md)
