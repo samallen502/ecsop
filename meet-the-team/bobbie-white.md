@@ -15,7 +15,7 @@ Communication Preferences: :purple\_circle: Teams | :e-mail: bwhite@sullivan.edu
 ## Professional Bio
 
 {% hint style="info" %}
-Bobbie started in Higher Education career in 1992. In January 1997, Bobbie began her career with Sullivan University. Throughout the years, Bobbie has worked in many different areas: Financial Planning; Re-Entry Specialist; Admission Advisor; Regional New Student Coordinator; and Enrollment Coordinator. Accuracy, efficiency, and loyalty are the cornerstone of Bobbie’s work ethic.
+Bobbie started her Higher Education career in 1992. In January 1997, Bobbie began her career with Sullivan University. Throughout the years, Bobbie has worked in many different areas: Financial Planning; Re-Entry Specialist; Admission Advisor; Regional New Student Coordinator; and Enrollment Coordinator. Accuracy, efficiency, and loyalty are the cornerstone of Bobbie’s work ethic.
 {% endhint %}
 
 ## Personal Bio
