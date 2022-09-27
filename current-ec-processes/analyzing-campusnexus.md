@@ -8,10 +8,6 @@ description: >-
 # 🔍 Analyzing CampusNexus
 
 {% hint style="info" %}
-Because [90% of SU students](https://nces.ed.gov/fastfacts/display.asp?id=31) use FA, an EC's first-time analysis should assume FA usage; if in the analysis process the EC detects no planned FA usage, disregard Items #5-7 (below) and see [the non-FA financing types section](broken-reference).
-
-&#x20;
-
 When first analyzing CampusNexus for VFPA readiness, always look for:
 
 
@@ -20,15 +16,15 @@ When first analyzing CampusNexus for VFPA readiness, always look for:
 2. The sum of Q1Q2Q3 ≤ program length
 3. Q1 aligns with the most recent ADMCheckList or ADMAdjustForm
 4. Future status
-5. KRD approval _only if using FA with KY address_
-6. Clean 21-22 ISIR
-7. Clean 22-23 ISIR
+5.  Financing type — FA, Military, CoPay, and/or CASH
+
+    A. If FA, which [will apply to 90% of applicants](https://nces.ed.gov/fastfacts/display.asp?id=31), will need FA documents: KRD approval (if KY address); clean 21-22 ISIR; clean 22-23 ISIR
+
+    B. If non-FA, will need various documents (details vary per type and are below)
 
 
 
 If all of the above are OK, the EC may confirm BYOD yes/no and schedule VFPA.
-
-
 
 If all of the above are NOT OK, the EC will track the applicant for progress until OK.
 
