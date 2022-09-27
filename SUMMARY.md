@@ -13,7 +13,7 @@
 
 ## EC Toolkit
 
-* [🔤 Common Acronyms & Abbreviations](ec-toolkit/common-acronyms-and-abbreviations.md)
+* [🔤 Acronyms/Abbreviations](ec-toolkit/acronyms-abbreviations.md)
 * [🛠 Frequently Used Tools](ec-toolkit/frequently-used-tools.md)
 * [☝ Best Practices](ec-toolkit/best-practices.md)
 
@@ -28,7 +28,7 @@
     * [Cash](current-ec-processes/analyzing-campusnexus/non-fa-financing-types/cash.md)
 * [👣 Tracking Applicants](current-ec-processes/tracking-applicants.md)
 * [💰 Processing Scholarships](current-ec-processes/processing-scholarships.md)
-* [💸 Approving Employer Discounts](current-ec-processes/approving-employer-discounts.md)
+* [💸 Approving Discounts](current-ec-processes/approving-discounts.md)
 * [🧐 Conducting KRD Reviews](current-ec-processes/conducting-krd-reviews.md)
 * [🗓 Scheduling](current-ec-processes/scheduling/README.md)
   * [Financial Planning Preparatory Appointment](current-ec-processes/scheduling/financial-planning-preparatory-appointment/README.md)
@@ -54,8 +54,8 @@
 ## Other Useful Info
 
 * [🤐 "Can't Say" Items](other-useful-info/cant-say-items.md)
-* [⚫ Blackout Scheduling Rules](other-useful-info/blackout-scheduling-rules.md)
-* [🖥 Templates for CampusNexus](other-useful-info/templates-for-campusnexus.md)
+* [⚫ Blackout Rules](other-useful-info/blackout-rules.md)
+* [🖥 Templates for CN](other-useful-info/templates-for-cn.md)
 * [📄 Templates for Email](other-useful-info/templates-for-email/README.md)
   * [First Contact w/ FA User](other-useful-info/templates-for-email/first-contact-w-fa-user.md)
   * [REQUEST: Schedule VFPA](other-useful-info/templates-for-email/request-schedule-vfpa/README.md)
