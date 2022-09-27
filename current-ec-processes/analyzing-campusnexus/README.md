@@ -8,7 +8,7 @@ description: >-
 # 🔍 Analyzing CampusNexus
 
 {% hint style="info" %}
-Because [90% of SU students](https://nces.ed.gov/fastfacts/display.asp?id=31) use FA, assume FA usage as you analyze; if in the process you detect no FA usage is planned, see [the non-FA financing types section](non-fa-financing-types/).
+Because [90% of SU students](https://nces.ed.gov/fastfacts/display.asp?id=31) use FA, an EC's first-time analysis should assume FA usage; if in the process the EC detects no planned FA usage, see [the non-FA financing types section](non-fa-financing-types/).
 
 &#x20;
 
