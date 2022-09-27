@@ -21,17 +21,17 @@ Bobbie started in Higher Education career in 1992. In January 1997, Bobbie began
 ## Personal Bio
 
 {% hint style="info" %}
-Home(s):&#x20;
+Home(s): Louisville, KY
 
-Interest(s):
+Interest(s): Football; Basketball; Baseball; Grandchildren (4 boys, 1 girl)
 
-Favorite Food(s):&#x20;
+Favorite Food(s): Coffee; Steak; Chicken Wings; Buffalo Chicken Dip.
 
-Favorite Podcast(s):&#x20;
+Favorite Podcast(s): Dateline; Up and Vanished; Dark History
 
-Pet(s):&#x20;
+Pet(s): Cat (Honey); Dog (Ziggy)
 
-Alma Mater(s):&#x20;
+Alma Mater(s): Sullivan University '13; Valley High School '88
 
-Hometown:&#x20;
+Hometown: Louisville, KY
 {% endhint %}
