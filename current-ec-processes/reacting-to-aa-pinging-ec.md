@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/trust.png
+coverY: 0
+---
+
 # 👀 Reacting to AA Pinging EC
 
 * [ ] Once applicant has CN profile, AA summons EC by providing CN SID via email, Teams message, phone call, and/or in-person communication
