@@ -27,7 +27,7 @@ coverY: 0
 * [ ] **Mongoose Cadence**
   * [ ] Function: Texting system to communicate with applicants
   * [ ] Launch [here](https://sms.mongooseresearch.com/#/login)
-* [ ] **RemoveSUSDepartments (**_**possibly unnecessary circa October 2022**_**)**
+* [ ] **RemoveSUSDepartments (**_**possibly obsolete circa October 2022**_**)**
   * [ ] Function: Allows user to upload documents to CN remotely
   * [ ] Launch [here](companyportal:ApplicationId=62784b2e-b220-48bb-857f-8d69a5c0b801)
   * [ ] Additional info: See "Use Case 2" of following file:
