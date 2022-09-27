@@ -63,14 +63,14 @@ The remainder of this section will explain how to analyze.
   * [ ] Confirm that Q1Q2Q3 aligns with the most recent "Admissions Check List" or "Adjustment Form"
     * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (12).png>)
     * [ ] Click ![](<../../.gitbook/assets/image (10).png>) to alphabetize all documents
-    *   [ ] Review visually the ![](<../../.gitbook/assets/image (1).png>)column for the most recent date
+    *   [ ] Review visually the ![](<../../.gitbook/assets/image (1) (2).png>)column for the most recent date
 
         * [ ] Example
 
         ![](<../../.gitbook/assets/image (7).png>)
     * [ ] Click the row
     * [ ] Click ![](<../../.gitbook/assets/image (11).png>)
-    * [ ] Click ![](../../.gitbook/assets/image.png)
+    * [ ] Click ![](<../../.gitbook/assets/image (1).png>)
     *   [ ] Review visually for "Tution Type" & "Enrollment Time"
 
         * [ ] Example
@@ -85,7 +85,7 @@ The remainder of this section will explain how to analyze.
 
         * [ ] Example:
 
-        ![](<../../.gitbook/assets/image (3) (1).png>)
+
     * [ ] If Future, proceed.  Otherwise, monitor for Future status.
   * [ ] Identify the financing type
     * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
