@@ -7,6 +7,10 @@ description: >-
 
 # 🔍 Analyzing CampusNexus
 
+{% hint style="warning" %}
+If an AA tells you an applicant is VFPA-ready, trust **but verify!**
+{% endhint %}
+
 {% hint style="info" %}
 When first analyzing CampusNexus for VFPA readiness, always look for:
 
