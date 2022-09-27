@@ -4,11 +4,11 @@ cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
 
-# Bobbie White
+# 🟢 Bobbie White
 
 Enrollment Coordinator — Campus: 3101 Bardstown Rd (Louisville, KY)
 
-Communication Preferences: :purple\_circle: Teams | :e-mail: \*\*\*\*\*\*@sullivan.edu | :telephone: (502) 413-8547
+Communication Preferences: :purple\_circle: Teams | :e-mail: bwhite@sullivan.edu | :telephone: (502) 413-8547
 
 <figure><img src="../.gitbook/assets/AO-White.avif" alt=""><figcaption></figcaption></figure>
 
