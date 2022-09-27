@@ -5,4 +5,5 @@ coverY: 0
 
 # 🤐 "Can't Say" Items
 
-*
+* [ ] Default
+* [ ] Dependency Override

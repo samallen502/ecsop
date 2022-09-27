@@ -167,6 +167,5 @@ The remainder of this section will explain how to analyze CampusNexus records.
               * [ ] Leave & Earnings Statement (LES)
               * [ ] Active Duty Military Orders
               * [ ] Uniformed presence physically on-campus to AA, ML, or SCO
-        * [ ] Once done with your analysis, log in Velocify your ANALYSIS & NEXT STEPS
-          * [ ] Example:
-            * [ ] ANALYSIS: ADMGenCom w/ Q1Q2Q3 (6/27); 12/12/0 Q1Q2Q3; sum Q1Q2Q3 = prog length of 24, so OK; Q1 aligns w/ ADMCheck 6/25's FT/fixed, so OK; Fut for BusAdmCert; KRD approved; clean 21-22 (IND); clean 22-23; ... NEXT: need BYOD yes/no; need conf FA/CASH (per 6/27 app); need sched VFPA
+        * [ ] Once done with your analysis, you should log in Velocify something similar to the following:
+          * [ ] ANALYSIS: ADMGenCom (6/27); 15/11/13 Q1Q2Q3; sum Q1Q2Q3 equals prog length, so OK; Fut for HVAC; APA-Num greater than 265, so MTH095 NOT required; KRD approved; clean 21-22 (IND); clean 22-23; ... NEXT: need BYOD yes/no; need conf FA/CASH (per 6/27 app); need sched VFPA -- BE SURE TO C\&P VELO GEN COM 6/30/2022 11:36a INTO EVENTUAL VFPA NOTES
