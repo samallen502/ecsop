@@ -8,16 +8,32 @@ description: >-
 # 🔍 Analyzing CampusNexus
 
 {% hint style="info" %}
-When analyzing CampusNexus for VFPA readiness, an EC always looks for:
+Because [90% of SU students](https://nces.ed.gov/fastfacts/display.asp?id=31) use FA, assume FA usage as you analyze; if in the process you detect no FA usage is planned, see [the non-FA financing types section](non-fa-financing-types/).
 
-1. ADMGenCom w/ Q1Q2Q3
-2. Q1Q2Q3 sums to program length
-3. Q1Q2Q3 aligns with most recent ADMCheckList or ADMAdjustForm
+&#x20;
+
+When first analyzing CampusNexus for VFPA readiness, always look for:
+
+
+
+1. ADMGenCom featuring Q1Q2Q3
+2. The sum of Q1Q2Q3 ≤ program length
+3. Q1 aligns with the most recent ADMCheckList or ADMAdjustForm
 4. Future status
 5. KRD approval _only if using FA with KY address_
 6. Clean 21-22 ISIR
 
-If the above is OK, confirm BYOD yes/no and schedule VFPA
+
+
+If the above is OK, the EC may confirm BYOD yes/no and schedule VFPA.
+
+
+
+If the above is NOT OK, the EC will track the student for progress until OK.
+
+
+
+&#x20;The remains of this section will explain how to analyze.
 {% endhint %}
 
 * [ ] Review CN for VFPA setup prerequisites
