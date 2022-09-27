@@ -8,7 +8,7 @@ description: >-
 # 🔍 Analyzing CampusNexus
 
 {% hint style="info" %}
-Because [90% of SU students](https://nces.ed.gov/fastfacts/display.asp?id=31) use FA, an EC's first-time analysis should assume FA usage; if in the process the EC detects no planned FA usage, see [the non-FA financing types section](non-fa-financing-types/).
+Because [90% of SU students](https://nces.ed.gov/fastfacts/display.asp?id=31) use FA, an EC's first-time analysis should assume FA usage; if in the analysis process the EC detects no planned FA usage, disregard Items #5-7 (below) and see [the non-FA financing types section](non-fa-financing-types/).
 
 &#x20;
 
@@ -26,15 +26,15 @@ When first analyzing CampusNexus for VFPA readiness, always look for:
 
 
 
-If the above is OK, the EC may confirm BYOD yes/no and schedule VFPA.
+If all of the above are OK, the EC may confirm BYOD yes/no and schedule VFPA.
 
 
 
-If the above is NOT OK, the EC will track the student for progress until OK.
+If all of the above are NOT OK, the EC will track the applicant for progress until OK.
 
 
 
-The remainder of this section will explain how to analyze.
+The remainder of this section will explain how to analyze CampusNexus records.
 {% endhint %}
 
 * [ ] Review CN for VFPA setup prerequisites
