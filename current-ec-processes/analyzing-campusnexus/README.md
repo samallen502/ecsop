@@ -86,7 +86,7 @@ The remainder of this section will explain how to analyze CampusNexus records.
 
         * [ ] Example:
 
-        ![](../../.gitbook/assets/image.png)
+        ![](<../../.gitbook/assets/image (2).png>)
     * [ ] If Future, proceed.  Otherwise, monitor for Future status.
   * [ ] Confirm the financing type
     * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
@@ -139,25 +139,24 @@ The remainder of this section will explain how to analyze CampusNexus records.
           * [ ] As of 10/1/2022, 2023-24 FAFSA required for any applicant starting 7/1/2023-6/30/2024
             * [ ] Most likely, CampusNexus will not be upgraded to show 2023-24 FAFSA until around 4/1/2023, so EC will need to secure 2023-24 FAFSA Confirmation Page Email featuring a Confirmation Number, Data Release Number, & EFC Score, then upload the email to CND
         * [ ] If "Self-Financing"...applicant will make cash payments on a monthly or quarterly basis (TBD by FPC during eventual VFPA)
-        * [ ] If "VA Benefits"...
-          * [ ] Campus ML to advise.
-            * [ ] Louisville: Sam Allen; sallen@sullivan.edu
-            * [ ] DuPont: Leah Schultz; lschultz@sullivan.edu
-            * [ ] Lexington: Savannah Slusher; sslusher@sullivan.edu
-            * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
+        *   [ ] If "VA Benefits" or "Military Tuition Assistance"...
+
+            * [ ] See:
+
+            ![](../../.gitbook/assets/image.png)
+
+            * [ ] For additional needs, campus ML to advise.
+              * [ ] Louisville: Sam Allen; sallen@sullivan.edu
+              * [ ] DuPont: Leah Schultz; lschultz@sullivan.edu
+              * [ ] Lexington: Savannah Slusher; sslusher@sullivan.edu
+              * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
         * [ ] If "Company-Paid Benefits"...
           * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
-          * [ ] Select the "Financial Aid" Module: ![](<../../.gitbook/assets/image (2).png>)
+          * [ ] Select the "Financial Aid" Module: ![](<../../.gitbook/assets/image (2) (3).png>)
           * [ ] Select the "Document" header to alphabetically sort all documents
           * [ ] Search for "FP - Company Pay Policy"
             * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4) (1).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7) (1).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
             * [ ] If no CoPayPol, ask AA to harvest CoPayPol and forward to EC when done
-        * [ ] If "Military Tuition Assistance"...
-          * [ ] Campus ML to advise.
-            * [ ] Louisville: Sam Allen; sallen@sullivan.edu
-            * [ ] DuPont: Leah Schultz; lschultz@sullivan.edu
-            * [ ] Lexington: Savannah Slusher; sslusher@sullivan.edu
-            * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
         * [ ] If "Yes" to "Are you currently service in the military (active duty or National Guard/Reserve)"...
           * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
           * [ ] Select the "Document" header to alphabetically sort all documents
