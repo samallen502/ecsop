@@ -7,5 +7,9 @@ description: >-
 
 # 👣 Tracking Applicants
 
+{% hint style="warning" %}
+All communication to and from applicant must be logged as an action within applicant’s Velocify profile.
+{% endhint %}
+
 * [ ] Review CN for VFPA setup prerequisites
   *
