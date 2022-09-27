@@ -51,26 +51,27 @@ The remainder of this section will explain how to analyze CampusNexus records.
       * [ ] ADMGenCom must feature Q1Q2Q3 plus any other content AA deems useful
         * [ ] Example: 12/12/12 = 12 hours for Quarter 1, Quarter 2, & Quarter 3
       * [ ] If no ADMGenCom, ask AA to add ADMGenCom and notify EC when done
-  * [ ] Is Q1Q2Q3 less than or equal to maximum program length?
+  * [ ] Is the sum of Q1Q2Q3 less than or equal to maximum program length?
     * [ ] Calculate the sum of Q1Q2Q3 (for example, 12/12/12 = 36)
     *   [ ] Go [here](https://sullivanedu.sharepoint.com.mcas.ms/sus/admissions/Training2/Forms/AllItems.aspx?id=%2Fsus%2Fadmissions%2FTraining2%2F2022%20Product%20Knowledge%20Binder%20with%20Tuition%20Changes\&viewid=8cd30b7e%2Dacb6%2D4a72%2D872a%2D553b237973e4) to identify the total credit hours possible for applicant's chosen program
 
         * [ ] Example:&#x20;
 
         ![](<../../.gitbook/assets/image (5) (1).png>)
-  * [ ] If the sum of Q1Q2Q3 is less than or equal to the total credit hours for the applicant's program of choice, accept Q1Q2Q3 as valid. Otherwise, reject Q1Q2Q3 as invalid and ask AA directly to update the ADMGenCom with a Q1Q2Q3 that is equal to or less than the total credit hours for the applicant's program of choice.
-    * [ ] Example: if given Q1Q2Q3 sums to 32 but program total is 24, Q1Q2Q3 may need to shift to 12/12/0 or program change may be needed (TBD by AA).&#x20;
-  * [ ] Confirm that Q1Q2Q3 aligns with the most recent "Admissions Check List" or "Adjustment Form"
+    * [ ] If the sum of Q1Q2Q3 is less than or equal to the total credit hours for the applicant's program of choice, accept Q1Q2Q3 as valid. Otherwise, reject Q1Q2Q3 as invalid and ask AA directly to update the ADMGenCom with a Q1Q2Q3 that is equal to or less than the total credit hours for the applicant's program of choice.
+      * [ ] Example: if given Q1Q2Q3 sums to 32 but program total is 24, Q1Q2Q3 may need to shift to 12/12/0 or program change may be needed (TBD by AA).&#x20;
+  * [ ] Does Q1Q2Q3 align with Admissions' most recent "Check List" or "Adjustment Form"?
     * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (12).png>)
+    * [ ] Ensure that you are reviewing all enrollments under Admissions' module: ![](<../../.gitbook/assets/image (5).png>)
     * [ ] Click ![](<../../.gitbook/assets/image (10).png>) to alphabetize all documents
-    *   [ ] Review visually the ![](<../../.gitbook/assets/image (1) (2).png>)column for the most recent date
+    *   [ ] Review visually the ![](<../../.gitbook/assets/image (1) (2) (1).png>)column for the most recently approved form
 
         * [ ] Example
 
         ![](<../../.gitbook/assets/image (7).png>)
-    * [ ] Click the row
+    * [ ] Click the row belonging to the most recently approved form
     * [ ] Click ![](<../../.gitbook/assets/image (11).png>)
-    * [ ] Click ![](<../../.gitbook/assets/image (1).png>)
+    * [ ] Click ![](<../../.gitbook/assets/image (1) (2).png>)
     *   [ ] Review visually for "Tution Type" & "Enrollment Time"
 
         * [ ] Example
@@ -80,14 +81,14 @@ The remainder of this section will explain how to analyze CampusNexus records.
         * [ ] If PT/credit & Q1 ≤ 8, OK
         * [ ] If FT/fixed & Q1 ≥ 12, OK
         * [ ] If anything else, advise AA to seek OK Adjustment Form _or_ seek Nina Martinez's approval
-  * [ ] Is applicant in Future status for a particular academic start date?
+  * [ ] Is applicant in Future status for an upcoming academic start date?
     *   [ ] In CampusNexus, navigate to Admissions > Status History
 
         * [ ] Example:
 
-
+        ![](../../.gitbook/assets/image.png)
     * [ ] If Future, proceed.  Otherwise, monitor for Future status.
-  * [ ] Identify the financing type
+  * [ ] Confirm the financing type
     * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
     * [ ] Select the "Document" header to alphabetically sort all documents
     *   [ ] Search for and highlight "ADM - Application for Enrollment"
@@ -126,7 +127,7 @@ The remainder of this section will explain how to analyze CampusNexus records.
               * [ ] Ensure Award Year is relevant: ![](<../../.gitbook/assets/image (6) (2).png>)
               * [ ] If ISIR displays and there is no C Code or Reject Code, regard ISIR as clean (error-free). Example:
 
-              ![](<../../.gitbook/assets/image (5).png>)
+              ![](<../../.gitbook/assets/image (5) (2).png>)
 
               * [ ] If ISIR displays and there is a C Code but no Reject Code, check Groups for Student to see if FP logged a "date off" so that C Code may safely be disregarded. Example:
 
