@@ -7,7 +7,7 @@
 * [🟢 Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
 * [🟢 SU-LOU EC2](meet-the-team/su-lou-ec2.md)
 * [🟢 Bobbie White](meet-the-team/bobbie-white.md)
-* [🔴 Samantha Hayes](meet-the-team/samantha-hayes.md)
+* [⚪ Samantha Hayes](meet-the-team/samantha-hayes.md)
 * [🔵 Amy Ruggirello](meet-the-team/amy-ruggirello.md)
 * [Non-ECs](meet-the-team/non-ecs.md)
 
