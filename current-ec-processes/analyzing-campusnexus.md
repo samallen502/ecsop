@@ -8,7 +8,7 @@ description: >-
 # 🔍 Analyzing CampusNexus
 
 {% hint style="info" %}
-Because [90% of SU students](https://nces.ed.gov/fastfacts/display.asp?id=31) use FA, an EC's first-time analysis should assume FA usage; if in the analysis process the EC detects no planned FA usage, disregard Items #5-7 (below) and see [the non-FA financing types section](non-fa-financing-types/).
+Because [90% of SU students](https://nces.ed.gov/fastfacts/display.asp?id=31) use FA, an EC's first-time analysis should assume FA usage; if in the analysis process the EC detects no planned FA usage, disregard Items #5-7 (below) and see [the non-FA financing types section](broken-reference).
 
 &#x20;
 
@@ -47,7 +47,7 @@ The remainder of this section will explain how to analyze CampusNexus records.
 
           * [ ] Example:
 
-          <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
+          <img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
       * [ ] ADMGenCom must feature Q1Q2Q3 plus any other content AA deems useful
         * [ ] Example: 12/12/12 = 12 hours for Quarter 1, Quarter 2, & Quarter 3
       * [ ] If no ADMGenCom, ask AA to add ADMGenCom and notify EC when done
@@ -57,26 +57,26 @@ The remainder of this section will explain how to analyze CampusNexus records.
 
         * [ ] Example:&#x20;
 
-        ![](<../../.gitbook/assets/image (5) (1).png>)
+        ![](<../.gitbook/assets/image (5) (1).png>)
     * [ ] If the sum of Q1Q2Q3 is less than or equal to the total credit hours for the applicant's program of choice, accept Q1Q2Q3 as valid. Otherwise, reject Q1Q2Q3 as invalid and ask AA directly to update the ADMGenCom with a Q1Q2Q3 that is equal to or less than the total credit hours for the applicant's program of choice.
       * [ ] Example: if given Q1Q2Q3 sums to 32 but program total is 24, Q1Q2Q3 may need to shift to 12/12/0 or program change may be needed (TBD by AA).&#x20;
   * [ ] Does Q1Q2Q3 align with Admissions' most recent "Check List" or "Adjustment Form"?
-    * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (12).png>)
-    * [ ] Ensure that you are reviewing all enrollments under Admissions' module: ![](<../../.gitbook/assets/image (5).png>)
-    * [ ] Click ![](<../../.gitbook/assets/image (10).png>) to alphabetize all documents
-    *   [ ] Review visually the ![](<../../.gitbook/assets/image (1) (2) (1).png>)column for the most recently approved form
+    * [ ] Navigate to CampusNexus Documents ![](<../.gitbook/assets/image (12).png>)
+    * [ ] Ensure that you are reviewing all enrollments under Admissions' module: ![](<../.gitbook/assets/image (5).png>)
+    * [ ] Click ![](<../.gitbook/assets/image (10).png>) to alphabetize all documents
+    *   [ ] Review visually the ![](<../.gitbook/assets/image (1) (2) (1).png>)column for the most recently approved form
 
         * [ ] Example
 
-        ![](<../../.gitbook/assets/image (7).png>)
+        ![](<../.gitbook/assets/image (7).png>)
     * [ ] Click the row belonging to the most recently approved form
-    * [ ] Click ![](<../../.gitbook/assets/image (11).png>)
-    * [ ] Click ![](<../../.gitbook/assets/image (1) (2).png>)
+    * [ ] Click ![](<../.gitbook/assets/image (11).png>)
+    * [ ] Click ![](<../.gitbook/assets/image (1) (2).png>)
     *   [ ] Review visually for "Tution Type" & "Enrollment Time"
 
         * [ ] Example
 
-        ![](<../../.gitbook/assets/image (6).png>)
+        ![](<../.gitbook/assets/image (6).png>)
 
         * [ ] If PT/credit & Q1 ≤ 8, OK
         * [ ] If FT/fixed & Q1 ≥ 12, OK
@@ -86,29 +86,29 @@ The remainder of this section will explain how to analyze CampusNexus records.
 
         * [ ] Example:
 
-        ![](<../../.gitbook/assets/image (2).png>)
+        ![](../.gitbook/assets/image.png)
     * [ ] If Future, proceed.  Otherwise, monitor for Future status.
   * [ ] Confirm the financing type
-    * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
+    * [ ] Navigate to CampusNexus Documents ![](<../.gitbook/assets/image (7) (1) (1).png>)
     * [ ] Select the "Document" header to alphabetically sort all documents
     *   [ ] Search for and highlight "ADM - Application for Enrollment"
 
         * [ ] If multiples, favor the application with the most recent "Requested" date
           * [ ] If multiples, favor the application with "use for acceptance" in comments
         * [ ] Select "Display Document"
-        * [ ] Select the "View Document" icon ![](<../../.gitbook/assets/image (2) (1).png>)
+        * [ ] Select the "View Document" icon ![](<../.gitbook/assets/image (2) (1) (1).png>)
         * [ ] Look for an open one of these 2 documents:
 
-        ![](<../../.gitbook/assets/image (1) (1) (1).png>)
+        ![](<../.gitbook/assets/image (1) (1) (1).png>)
 
         * [ ] Search (CTRL-F) for "plan to pay"
 
-        ![](<../../.gitbook/assets/image (2) (2).png>)
+        ![](<../.gitbook/assets/image (2) (2).png>)
 
         * [ ] If "Financial Aid"...
           * [ ] KRD must be approved, denied, or no longer needed _unless_ ADOA declares KRD N/A for VFPA setup purposes
-            * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
-            * [ ] Select the "Admissions" Module: ![](<../../.gitbook/assets/image (9).png>)
+            * [ ] Navigate to CampusNexus Documents ![](<../.gitbook/assets/image (7) (1) (1).png>)
+            * [ ] Select the "Admissions" Module: ![](<../.gitbook/assets/image (9).png>)
             * [ ] Select the "Document" header to alphabetically sort all documents
             * [ ] Search for "ADM - Kentucky Residency Determination"
               * [ ] Ignore any review not conducted 12 months prior to the intended academic start date.
@@ -122,16 +122,16 @@ The remainder of this section will explain how to analyze CampusNexus records.
 
               * [ ] Navigate to Financial Aid > ISIR
 
-              ![](../../.gitbook/assets/isir.JPG)
+              ![](../.gitbook/assets/isir.JPG)
 
-              * [ ] Ensure Award Year is relevant: ![](<../../.gitbook/assets/image (6) (2).png>)
+              * [ ] Ensure Award Year is relevant: ![](<../.gitbook/assets/image (6) (2).png>)
               * [ ] If ISIR displays and there is no C Code or Reject Code, regard ISIR as clean (error-free). Example:
 
-              ![](<../../.gitbook/assets/image (5) (2).png>)
+              ![](<../.gitbook/assets/image (5) (2).png>)
 
               * [ ] If ISIR displays and there is a C Code but no Reject Code, check Groups for Student to see if FP logged a "date off" so that C Code may safely be disregarded. Example:
 
-              ![](<../../.gitbook/assets/image (4).png>)
+              ![](<../.gitbook/assets/image (4).png>)
 
               * [ ] If ISIR displays and there is a C Code and/or Reject Code but no "date off" within Groups for Student, plan to schedule a Virtual Financial Planning Preparatory Appointment (VFPPA) for the applicant.
           * [ ] 2022-23 FAFSA required for any applicant starting 7/1/2022-6/30/2023
@@ -143,7 +143,7 @@ The remainder of this section will explain how to analyze CampusNexus records.
 
             * [ ] See:
 
-            ![](../../.gitbook/assets/image.png)
+            ![](<../.gitbook/assets/image (2).png>)
 
             * [ ] For additional needs, campus ML to advise.
               * [ ] Louisville: Sam Allen; sallen@sullivan.edu
@@ -151,14 +151,14 @@ The remainder of this section will explain how to analyze CampusNexus records.
               * [ ] Lexington: Savannah Slusher; sslusher@sullivan.edu
               * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
         * [ ] If "Company-Paid Benefits"...
-          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
-          * [ ] Select the "Financial Aid" Module: ![](<../../.gitbook/assets/image (2) (3).png>)
+          * [ ] Navigate to CampusNexus Documents ![](<../.gitbook/assets/image (7) (1) (1).png>)
+          * [ ] Select the "Financial Aid" Module: ![](<../.gitbook/assets/image (2) (1).png>)
           * [ ] Select the "Document" header to alphabetically sort all documents
           * [ ] Search for "FP - Company Pay Policy"
-            * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4) (1).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7) (1).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
+            * [ ] If document has been logged, highlight document, look for ![](<../.gitbook/assets/image (4) (1).png>) icon to the left of highlighted document, select ![](<../.gitbook/assets/image (7) (1).png>) button, select ![](<../.gitbook/assets/image (8).png>) button, and proofread upload.
             * [ ] If no CoPayPol, ask AA to harvest CoPayPol and forward to EC when done
         * [ ] If "Yes" to "Are you currently service in the military (active duty or National Guard/Reserve)"...
-          * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
+          * [ ] Navigate to CampusNexus Documents ![](<../.gitbook/assets/image (7) (1) (1).png>)
           * [ ] Select the "Document" header to alphabetically sort all documents
           * [ ] Search for and highlight "ADM - Military Orders"
             * [ ] Status of "Approved" means applicant will receive a military discount

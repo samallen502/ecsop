@@ -1,2 +1,0 @@
-# Identify Financing Type(s)
-

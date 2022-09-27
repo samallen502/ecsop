@@ -7,7 +7,7 @@ coverY: 0
 
 * [ ] Once applicant has CN profile, AA summons EC by providing CN SID via email, Teams message, phone call, and/or in-person communication
   * [ ] If no CN SID, EC should ask AA to re-notify EC once SID exists (because the EC needs CN profile to analyze and a way to track the applicant for progress).
-* [ ] Proceed to [Analyzing CampusNexus](analyzing-campusnexus/) section
+* [ ] Proceed to [Analyzing CampusNexus](analyzing-campusnexus.md) section
 
 {% hint style="warning" %}
 Occasionally, an AA will ask an EC to provide an applicant with on-demand FAFSA help. Be careful not to overserve one applicant prematurely while underserving multiple other applicants. Prior to engaging the applicant, qualify the applicant for help by asking: "On which step of the usual FAFSA completion instructions is the applicant stuck?"

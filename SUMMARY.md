@@ -20,11 +20,7 @@
 ## Current EC Processes
 
 * [👀 Reacting to AA Pinging EC](current-ec-processes/reacting-to-aa-pinging-ec.md)
-* [🔍 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus/README.md)
-  * [Non-FA Financing Types](current-ec-processes/analyzing-campusnexus/non-fa-financing-types/README.md)
-    * [Military](current-ec-processes/analyzing-campusnexus/non-fa-financing-types/military.md)
-    * [Company Pay](current-ec-processes/analyzing-campusnexus/non-fa-financing-types/company-pay.md)
-    * [Cash](current-ec-processes/analyzing-campusnexus/non-fa-financing-types/cash.md)
+* [🔍 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus.md)
 * [👣 Tracking Applicants](current-ec-processes/tracking-applicants.md)
 * [💰 Processing Scholarships](current-ec-processes/processing-scholarships.md)
 * [💸 Approving Discounts](current-ec-processes/approving-discounts.md)
