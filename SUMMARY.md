@@ -30,7 +30,7 @@
     * [Military](current-ec-processes/analyzing-campusnexus/identify-financing-type-s/military.md)
     * [Cash](current-ec-processes/analyzing-campusnexus/identify-financing-type-s/cash.md)
 * [👣 Tracking Applicants](current-ec-processes/tracking-applicants.md)
-* [💰 Processing Scholarship Approval Requests](current-ec-processes/processing-scholarship-approval-requests.md)
+* [💰 Processing Scholarships](current-ec-processes/processing-scholarships.md)
 * [💸 Approving Employer Discounts](current-ec-processes/approving-employer-discounts.md)
 * [🧐 Conducting KRD Reviews](current-ec-processes/conducting-krd-reviews.md)
 * [🗓 Scheduling](current-ec-processes/scheduling/README.md)

@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
 
-# SU-LOU EC2
+# 🟢 SU-LOU EC2
 
 Enrollment Coordinator — Campus: 3101 Bardstown Rd (Louisville, KY)
 

@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/sullivan-university-dupont-campus.jpg
 coverY: -50.32199546485261
 ---
 
-# Samantha Hayes
+# ⚪ Samantha Hayes
 
 Enrollment Coordinator — Campus: 4000 Dupont Circle (Louisville, KY)
 

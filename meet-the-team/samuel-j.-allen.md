@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/btc.jpg
 coverY: 0
 ---
 
-# Samuel J. Allen
+# 🟢 Samuel J. Allen
 
 Enrollment Coordinator & Military Liaison :flag\_us: — Campus: 3101 Bardstown Rd (Louisville, KY)
 
