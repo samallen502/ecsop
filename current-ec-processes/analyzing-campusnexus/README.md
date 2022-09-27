@@ -61,7 +61,25 @@ The remainder of this section will explain how to analyze.
   * [ ] If the sum of Q1Q2Q3 is less than or equal to the total credit hours for the applicant's program of choice, accept Q1Q2Q3 as valid. Otherwise, reject Q1Q2Q3 as invalid and ask AA directly to update the ADMGenCom with a Q1Q2Q3 that is equal to or less than the total credit hours for the applicant's program of choice.
     * [ ] Example: if given Q1Q2Q3 sums to 32 but program total is 24, Q1Q2Q3 may need to shift to 12/12/0 or program change may be needed (TBD by AA).&#x20;
   * [ ] Confirm that Q1Q2Q3 aligns with the most recent "Admissions Check List" or "Adjustment Form"
-    * [ ] INSERT HERE
+    * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (12).png>)
+    * [ ] Click ![](<../../.gitbook/assets/image (10).png>) to alphabetize all documents
+    *   [ ] Review visually the ![](<../../.gitbook/assets/image (1).png>)column for the most recent date
+
+        * [ ] Example
+
+        ![](<../../.gitbook/assets/image (7).png>)
+    * [ ] Click the row
+    * [ ] Click ![](<../../.gitbook/assets/image (11).png>)
+    * [ ] Click ![](../../.gitbook/assets/image.png)
+    *   [ ] Review visually for "Tution Type" & "Enrollment Time"
+
+        * [ ] Example
+
+        ![](<../../.gitbook/assets/image (6).png>)
+
+        * [ ] If PT/credit & Q1 ≤ 8, OK
+        * [ ] If FT/fixed & Q1 ≥ 12, OK
+        * [ ] If anything else, advise AA to seek OK Adjustment Form _or_ seek Nina Martinez's approval
   * [ ] Is applicant in Future status for a particular academic start date?
     *   [ ] In CampusNexus, navigate to Admissions > Status History
 
@@ -80,11 +98,11 @@ The remainder of this section will explain how to analyze.
         * [ ] Select the "View Document" icon ![](<../../.gitbook/assets/image (2) (1).png>)
         * [ ] Look for an open one of these 2 documents:
 
-        ![](<../../.gitbook/assets/image (1) (1).png>)
+        ![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
         * [ ] Search (CTRL-F) for "plan to pay"
 
-        ![](<../../.gitbook/assets/image (2).png>)
+        ![](<../../.gitbook/assets/image (2) (2).png>)
 
         * [ ] If "Financial Aid"...
           * [ ] KRD must be approved, denied, or no longer needed _unless_ ADOA declares KRD N/A for VFPA setup purposes
@@ -105,7 +123,7 @@ The remainder of this section will explain how to analyze.
 
               ![](../../.gitbook/assets/isir.JPG)
 
-              * [ ] Ensure Award Year is relevant: ![](<../../.gitbook/assets/image (6).png>)
+              * [ ] Ensure Award Year is relevant: ![](<../../.gitbook/assets/image (6) (2).png>)
               * [ ] If ISIR displays and there is no C Code or Reject Code, regard ISIR as clean (error-free). Example:
 
               ![](<../../.gitbook/assets/image (5).png>)
@@ -128,7 +146,7 @@ The remainder of this section will explain how to analyze.
             * [ ] SCO (All Campuses): Meshell LaBaun; mlabaun@sullivan.edu
         * [ ] If "Company-Paid Benefits"...
           * [ ] Navigate to CampusNexus Documents ![](<../../.gitbook/assets/image (7) (1) (1).png>)
-          * [ ] Select the "Financial Aid" Module: ![](../../.gitbook/assets/image.png)
+          * [ ] Select the "Financial Aid" Module: ![](<../../.gitbook/assets/image (2).png>)
           * [ ] Select the "Document" header to alphabetically sort all documents
           * [ ] Search for "FP - Company Pay Policy"
             * [ ] If document has been logged, highlight document, look for ![](<../../.gitbook/assets/image (4) (1).png>) icon to the left of highlighted document, select ![](<../../.gitbook/assets/image (7) (1).png>) button, select ![](<../../.gitbook/assets/image (8).png>) button, and proofread upload.
