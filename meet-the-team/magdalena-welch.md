@@ -4,13 +4,13 @@ cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
 
-# 🟢 SU-LOU EC2
+# 🟢 Magdalena Welch
 
 Enrollment Coordinator — Campus: 3101 Bardstown Rd (Louisville, KY)
 
 Communication Preferences: :purple\_circle: Teams | :e-mail: \*\*\*\*\*\*@sullivan.edu | :telephone: (502) 413-8547
 
-![](../.gitbook/assets/unisex-avatar.png)
+<figure><img src="../.gitbook/assets/mag.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Professional Bio
 

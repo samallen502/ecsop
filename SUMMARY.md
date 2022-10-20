@@ -5,7 +5,7 @@
 ## Meet The Team
 
 * [🟢 Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
-* [🟢 SU-LOU EC2](meet-the-team/su-lou-ec2.md)
+* [🟢 Magdalena Welch](meet-the-team/magdalena-welch.md)
 * [🟢 Bobbie White](meet-the-team/bobbie-white.md)
 * [⚪ Samantha Hayes](meet-the-team/samantha-hayes.md)
 * [🔵 Amy Ruggirello](meet-the-team/amy-ruggirello.md)
