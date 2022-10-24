@@ -9,7 +9,7 @@ Enrollment Coordinator — Campus: 4000 Dupont Circle (Louisville, KY)
 
 Communication Preferences: :purple\_circle: Teams | :e-mail: shayes@sullivan.edu | :telephone: (502) 447-1000 xXXXX
 
-![](../.gitbook/assets/unisex-avatar.png)
+<figure><img src="../.gitbook/assets/samantha.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Professional Bio
 
