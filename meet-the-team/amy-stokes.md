@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/SU Lexington.jpg
 coverY: 0
 ---
 
-# 🔵 Amy Ruggirello
+# 🟡 Amy Stokes
 
 Enrollment Coordinator — Campus: 2355 Harrodsburg Rd (Lexington, KY)
 

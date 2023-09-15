@@ -4,9 +4,9 @@
 
 Student (STUDE1234):
 
-Good afternoon!  I am writing to confirm your Virtual Financial Planning Appointment with <mark style="color:orange;">**Jesús Carmona**</mark>** ** of Financial Planning.  The 45-minute virtual appointment has been scheduled for <mark style="color:orange;">**Saturday, 11/6/2021, at 10:00 AM EST**</mark>.  Please ensure that you may receive a phone call <mark style="color:orange;">**at (502) 777-1588**</mark>** ** and <mark style="color:orange;">**please be sure to be logged into your email account before the appointment begins**</mark>.
+Good afternoon!  I am writing to confirm your Virtual Financial Planning Appointment with <mark style="color:orange;">**Jesús Carmona**</mark> of Financial Planning.  The 45-minute virtual appointment has been scheduled for <mark style="color:orange;">**Saturday, 11/6/2021, at 10:00 AM EST**</mark>.  Please ensure that you may receive a phone call <mark style="color:orange;">**at (502) 777-1588**</mark> and <mark style="color:orange;">**please be sure to be logged into your email account before the appointment begins**</mark>.
 
-Just to be clear, Financial Planning will be packaging you financially with the understanding that you will be utilizing <mark style="color:orange;">**financial aid**</mark>, not employer-paid benefits or veteran benefits, **** to cover your anticipated expenses.  As your appointment approaches, I highly encourage you to address the following:
+Just to be clear, Financial Planning will be packaging you financially with the understanding that you will be utilizing <mark style="color:orange;">**financial aid**</mark>, not employer-paid benefits or veteran benefits, to cover your anticipated expenses.  As your appointment approaches, I highly encourage you to address the following:
 
 1.  If you anticipate using the Federal Direct Student Loan Program, complete a Master Promissory Note (MPN) and Entrance Counseling
 

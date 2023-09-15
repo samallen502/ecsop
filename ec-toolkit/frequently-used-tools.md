@@ -58,4 +58,3 @@ Generally, overtime is disallowed outside of the Blackout Period, which typicall
   * [ ] Function: SIS for prospective students
   * [ ] Launch [here](https://lm.velocify.com/Web/Login.aspx)
 
-****
