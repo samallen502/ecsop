@@ -9,6 +9,7 @@
 * [⚪ Samantha Hayes](meet-the-team/samantha-hayes.md)
 * [🟡 Amy Stokes](meet-the-team/amy-stokes.md)
 * [🔵 Abigail Moir](meet-the-team/abigail-moir.md)
+* [🟢 Katelyn Gambill](meet-the-team/katelyn-gambill.md)
 * [💼 Non-ECs](meet-the-team/non-ecs.md)
 
 ## EC Toolkit

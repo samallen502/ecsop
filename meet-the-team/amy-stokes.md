@@ -1,6 +1,5 @@
 ---
 description: 'Lou/Lex Alphabet Split: G-L | Specialty: All Fort Knox Students'
-cover: ../.gitbook/assets/SU Lexington.jpg
 coverY: 0
 ---
 
