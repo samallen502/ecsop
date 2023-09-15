@@ -64,5 +64,6 @@
 * [⚰ Old Processes](obsolete-information/old-processes/README.md)
   * [👀 Reacting to AA Pinging EC](obsolete-information/old-processes/reacting-to-aa-pinging-ec.md)
   * [👣 Tracking Applicants](obsolete-information/old-processes/tracking-applicants.md)
+  * [🔍 Analyzing CampusNexus circa July 2023](obsolete-information/old-processes/analyzing-campusnexus-circa-july-2023.md)
 * [📜 Old Templates](obsolete-information/old-templates.md)
 * [🪦 Old Teammates](obsolete-information/old-teammates.md)
