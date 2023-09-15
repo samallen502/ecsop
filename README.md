@@ -17,3 +17,5 @@ Welcome to the Enrollment Coordinator (EC) wiki! Here you'll find everything you
 {% endhint %}
 
 _Original framework constructed by Samuel J. Allen on January 6th, 2022._
+
+_Last update made by Samuel J. Allen on September 15, 2023 at 10:43 AM EST._
