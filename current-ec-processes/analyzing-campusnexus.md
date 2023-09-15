@@ -22,7 +22,7 @@ When first analyzing CampusNexus for VFPA readiness, always look for:
 4. Future status
 5.  Financing type — FA, Military, CoPay, and/or CASH
 
-    A. If FA, which [will apply to 90% of applicants](https://nces.ed.gov/fastfacts/display.asp?id=31), will need FA documents: KRD approval (if KY address); clean 21-22 ISIR; clean 22-23 ISIR
+    A. If FA, which [will apply to 90% of applicants](https://nces.ed.gov/fastfacts/display.asp?id=31), will need FA documents: KRD approval (if KY address); clean 23-24 ISIR
 
     B. If non-FA, will need various documents (details vary per type and are below)
 
