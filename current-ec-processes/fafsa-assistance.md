@@ -1,7 +1,5 @@
 ---
-description: >-
-  Following this section will ensure that you invest one hour of your day into a
-  FAFSA Assistance Session only when it is necessary.
+description: Following this section may prevent losing 13% of your day unnecessarily.
 cover: ../.gitbook/assets/trust.png
 coverY: 0
 ---
