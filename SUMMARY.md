@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🧭 Enrollment Coordinator SOP](README.md)
+* [🧭 EC SOP](README.md)
 
 ## Meet The Team
 
@@ -20,12 +20,11 @@
 
 ## Current EC Processes
 
-* [👀 Reacting to AA Pinging EC](current-ec-processes/reacting-to-aa-pinging-ec.md)
+* [🆘 FAFSA Assistance](current-ec-processes/fafsa-assistance.md)
 * [🔍 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus.md)
-* [👣 Tracking Applicants](current-ec-processes/tracking-applicants.md)
 * [💰 Processing Scholarships](current-ec-processes/processing-scholarships.md)
 * [💸 Approving Discounts](current-ec-processes/approving-discounts.md)
-* [🧐 Conducting KRD Reviews](current-ec-processes/conducting-krd-reviews.md)
+* [🧐 Reviewing KRD](current-ec-processes/reviewing-krd.md)
 * [🗓 Scheduling](current-ec-processes/scheduling/README.md)
   * [Financial Planning Preparatory Appointment](current-ec-processes/scheduling/financial-planning-preparatory-appointment/README.md)
     * [For Independent](current-ec-processes/scheduling/financial-planning-preparatory-appointment/for-independent/README.md)
@@ -43,10 +42,6 @@
   * [Financial Planning No Appointment Needed](current-ec-processes/scheduling/financial-planning-no-appointment-needed.md)
 * [♻ Rescheduling](current-ec-processes/rescheduling.md)
 
-## Obsolete EC Processes
-
-* [⚰ (Relegate Old Tasks Here)](obsolete-ec-processes/relegate-old-tasks-here.md)
-
 ## Other Useful Info
 
 * [🤐 "Can't Say" Items](other-useful-info/cant-say-items.md)
@@ -63,3 +58,11 @@
     * [for IND](other-useful-info/templates-for-email/confirmation-of-vfpa/for-ind/README.md)
       * [via Phone & Email](other-useful-info/templates-for-email/confirmation-of-vfpa/for-ind/via-phone-and-email.md)
 * [📗 Staff Manual](other-useful-info/staff-manual.md)
+
+## Obsolete Information
+
+* [⚰ Old Processes](obsolete-information/old-processes/README.md)
+  * [👀 Reacting to AA Pinging EC](obsolete-information/old-processes/reacting-to-aa-pinging-ec.md)
+  * [👣 Tracking Applicants](obsolete-information/old-processes/tracking-applicants.md)
+* [📜 Old Templates](obsolete-information/old-templates.md)
+* [🪦 Old Teammates](obsolete-information/old-teammates.md)

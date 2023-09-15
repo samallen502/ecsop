@@ -8,7 +8,7 @@ description: >-
 # 🔍 Analyzing CampusNexus
 
 {% hint style="warning" %}
-If an AA tells you an applicant is VFPA-ready, trust **but verify!**
+If an AA tells you an applicant is VFPA-ready, trust **but verify**!
 {% endhint %}
 
 {% hint style="info" %}
