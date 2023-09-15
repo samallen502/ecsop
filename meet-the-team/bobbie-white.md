@@ -1,5 +1,5 @@
 ---
-description: 'Alphabet Split: I-P | Specialty: FAFSA Assistance'
+description: 'Lou/Lex Alphabet Split: S-Z | Specialty: Kentucky Residency'
 cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
