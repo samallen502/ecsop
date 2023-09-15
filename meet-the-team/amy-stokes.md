@@ -1,13 +1,14 @@
 ---
+description: 'Lou/Lex Alphabet Split: G-L | Specialty: All Fort Knox Students'
 cover: ../.gitbook/assets/SU Lexington.jpg
 coverY: 0
 ---
 
 # 🟡 Amy Stokes
 
-Enrollment Coordinator — Campus: 2355 Harrodsburg Rd (Lexington, KY)
+Enrollment Coordinator — Campus: 31 Warehouse St (Fort Knox, KY)
 
-Communication Preferences: :purple\_circle: Teams | :e-mail: aruggirello@sullivan.edu | :telephone: (859) 514-XXXX
+Communication Preferences: :purple\_circle: Teams | :e-mail: astokes@sullivan.edu | :telephone: (859) 759-4133
 
 ![](../.gitbook/assets/unisex-avatar.png)
 
