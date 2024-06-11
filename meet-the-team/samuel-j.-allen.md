@@ -52,4 +52,4 @@ Alma Mater(s): 🔴⚫ [University of Louisville](https://louisville.edu/) '07 '
 Hometown: [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/S&#x26;V-Crop.jpg" media="(prefers-color-scheme: dark)"><img src="broken-reference" alt=""></picture><figcaption><p>Sam and his fiancée, Vanessa, at Spindletop Hall in Lexington, KY on May 26, 2024.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/S&#x26;V-Crop.jpg" alt=""><figcaption><p>Sam and his fiancée, Vanessa, at Spindletop Hall in Lexington, KY on May 26, 2024.</p></figcaption></figure>
