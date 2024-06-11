@@ -29,7 +29,7 @@ Partner: Vanessa ([fiancée](https://www.instagram.com/p/C7kSRycO68w/))
 
 Pet(s): Dog ([Ruger, brindle miniature dachshund](https://www.instagram.com/p/8RZzBnu\_zk/))
 
-Interest(s): Decentralized Finance (DeFi) :coin:; Off-The-Grid (OTG) Living 🏕️
+Interest(s): Decentralized Finance (DeFi) :coin:; Homesteading 🏕️
 
 &#x20;    :coin: Favorite DeFi Token(s): [BTC](https://coinmarketcap.com/currencies/bitcoin/); [MATIC](https://coinmarketcap.com/currencies/polygon/)
 
