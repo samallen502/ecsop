@@ -1,5 +1,5 @@
 ---
-description: 'Lou/Lex Alphabet Split: TBD | Specialty: TBD'
+description: 'Alphabet Split: Lexington A-Z | Specialty: TBD'
 cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
