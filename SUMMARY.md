@@ -6,8 +6,6 @@
 
 * [🟢 Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
 * [🟢 Bobbie White](meet-the-team/bobbie-white.md)
-* [⚪ Samantha Hayes](meet-the-team/samantha-hayes.md)
-* [🟡 Amy Stokes](meet-the-team/amy-stokes.md)
 * [🔵 Abigail Moir](meet-the-team/abigail-moir.md)
 * [🟢 Katelyn Gambill](meet-the-team/katelyn-gambill.md)
 * [💼 Non-ECs](meet-the-team/non-ecs.md)
@@ -66,4 +64,6 @@
   * [👣 Tracking Applicants](obsolete-information/old-processes/tracking-applicants.md)
   * [🔍 Analyzing CampusNexus circa July 2023](obsolete-information/old-processes/analyzing-campusnexus-circa-july-2023.md)
 * [📜 Old Templates](obsolete-information/old-templates.md)
-* [🪦 Old Teammates](obsolete-information/old-teammates.md)
+* [🪦 Old Teammates](obsolete-information/old-teammates/README.md)
+  * [🟡 Amy Stokes](obsolete-information/old-teammates/amy-stokes.md)
+  * [⚪ Samantha Hayes](obsolete-information/old-teammates/samantha-hayes.md)

@@ -9,7 +9,7 @@ Enrollment Coordinator — Campus: 31 Warehouse St (Fort Knox, KY)
 
 Communication Preferences: :purple\_circle: Teams | :e-mail: astokes@sullivan.edu | :telephone: (859) 759-4133
 
-![](../.gitbook/assets/unisex-avatar.png)
+![](../../.gitbook/assets/unisex-avatar.png)
 
 ## Professional Bio
 
