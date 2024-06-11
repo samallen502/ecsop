@@ -1,5 +1,5 @@
 ---
-description: 'Lou/Lex Alphabet Split: I-P | Specialty: Military Benefits'
+description: 'Lou/Lex Alphabet Split: A-K | Specialty: Military Benefits'
 cover: ../.gitbook/assets/btc.jpg
 coverY: 0
 ---
@@ -21,33 +21,35 @@ Sam was hired December 2010.  Sam's work style can best be described as applying
 ## Personal Bio
 
 {% hint style="info" %}
-Home(s): [East Louisville](https://www.google.com/maps/place/MEADOWBRK+FRM,+KY+40223/@38.2550652,-85.615672,12z/data=!3m1!4b1!4m5!3m4!1s0x88699f143b5d95a1:0xb67e92f9977eedfc!8m2!3d38.2586184!4d-85.5457689); [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
+Home(s): Louisville, KY; [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
 
-Interest(s): Decentralized finance :coin:; Web3 :computer:; Off-The-Grid (OTG) Living 🏕️
+Church: [Southeast Christian Church](https://www.southeastchristian.org/) ([Blankenbaker](https://my.southeastchristian.org/location/blankenbaker) & [SE Online](https://online.southeastchristian.org/))
 
-&#x20;    :coin: Favorite Coin(s): [BTC](https://invite.strike.me/E79L0H); [1FLR](https://pipeflare.io/r/6va4); [MATIC](https://coinmarketcap.com/currencies/polygon/)
+Partner: Vanessa ([fiancée](https://www.instagram.com/p/C7kSRycO68w/))
 
-&#x20;    🖼️ Favorite NFT(s): [PipeFlare Pyro Collection](https://opensea.io/collection/pipeflarepyro) (for use on [PipeFlare](https://pipeflare.io/r/6va4))
+Interest(s): Decentralized Finance (DeFi) :coin:; Off-The-Grid (OTG) Living 🏕️
 
-&#x20;                                      [Starbucks Odyssey Siren Collection](https://opensea.io/collection/the-starbucks-siren-collection)
+&#x20;    :coin: Favorite DeFi Token(s): [BTC](https://coinmarketcap.com/currencies/bitcoin/); [MATIC](https://coinmarketcap.com/currencies/polygon/)
+
+&#x20;         🤑 Favorite Accumulation Methods: [Link](https://linktr.ee/samueljallen.x)
+
+&#x20;    🖼️ Favorite DeFi NFT(s): [PipeFlare Pyro Collection](https://opensea.io/collection/pipeflarepyro) (for use on [PipeFlare](https://pipeflare.io/r/6va4))                                      &#x20;
 
 Favorite Food(s): Protein :meat\_on\_bone: :cheese:; Caffeine :coffee:
 
-&#x20;    :meat\_on\_bone: Protein: [Kirkland Steak Strips](https://www.costco.com/kirkland-signature-premium-extra-thick-steak-strips%2C-12-oz.product.100333696.html); [Kirkland Fresh Mozzarella](https://www.costcobusinessdelivery.com/kirkland-signature-fresh-mozzarella-cheese-slices%2C-18-oz%2C-2-ct.product.100357165.html); [Quest Bars](https://www.questnutrition.com/products/white-chocolate-raspberry-box-of-12)
+&#x20;    :meat\_on\_bone: Protein: [Kirkland Steak Strips](https://www.costco.com/kirkland-signature-premium-extra-thick-steak-strips%2C-12-oz.product.100333696.html); [Chef's Cut Buffalo Sticks](https://www.amazon.com/Chefs-Cut-Real-Pepper-Sticks/dp/B0711BWSSP/); [Quest Bars](https://www.questnutrition.com/products/white-chocolate-raspberry-box-of-12)
 
-&#x20;    :coffee: Caffeine: Starbucks\*; [Celsius](https://www.costco.com/celsius-sparkling-fitness-drink%2C-variety-pack%2C-12-fl-oz%2C-15-count.product.100645376.html); [Franklin's Finest from My Patriot Supply](https://mypatriotsupply.com/collections/long-term-food-storage/products/franklins-finest-survival-coffee-720)
+&#x20;    :coffee: Caffeine: Preferably lattes from anywhere but [Starbucks](https://mashable.com/article/starbucks-sunsets-nft-reward-program-odyssey)
 
-&#x20;    _\* Flat White, Venti, Blonde Espresso, Extra Cinnamon Powder, 4 Shots_
+Favorite Podcast(s): [Ask Pastor John](https://podcasts.apple.com/us/podcast/ask-pastor-john/id618132843); [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
 
-&#x20;      or _Nitro Cold Brew, Grande in a Venti Cup, Extra Splash of Sweet Cream_
-
-Favorite Podcast(s): [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485); [Something to Wrestle](https://podcasts.apple.com/us/podcast/something-to-wrestle-with-bruce-prichard/id1139391156)
-
-Pet(s): Dog (Ruger, brindle miniature dachshund)
+Pet(s): Dog ([Ruger, brindle miniature dachshund](https://www.instagram.com/p/8RZzBnu\_zk/))
 
 Alma Mater(s): 🔴⚫ [University of Louisville](https://louisville.edu/) '07 '08
 
-&#x20;                        🔵⚪ [Paintsville High School](https://sites.google.com/paintsville.kyschools.us/paintsville/home) '03
+&#x20;                            🔵⚪ [Paintsville High School](https://sites.google.com/paintsville.kyschools.us/paintsville/home) '03
 
 Hometown: [Paintsville, KY](https://en.wikipedia.org/wiki/Paintsville,\_Kentucky)
 {% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/S&#x26;V-Crop.jpg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/S&#x26;V.jpg" alt=""></picture><figcaption><p>Sam and his fiancée, Vanessa, at Spindletop Hall in Lexington, KY on May 26, 2024.</p></figcaption></figure>

@@ -15,8 +15,8 @@
 ## EC Toolkit
 
 * [🔤 Acronyms/Abbreviations](ec-toolkit/acronyms-abbreviations.md)
-* [🛠 Frequently Used Tools](ec-toolkit/frequently-used-tools.md)
-* [☝ Best Practices](ec-toolkit/best-practices.md)
+* [🛠️ Frequently Used Tools](ec-toolkit/frequently-used-tools.md)
+* [☝️ Best Practices](ec-toolkit/best-practices.md)
 
 ## Current EC Processes
 
@@ -25,7 +25,7 @@
 * [💰 Processing Scholarships](current-ec-processes/processing-scholarships.md)
 * [💸 Approving Discounts](current-ec-processes/approving-discounts.md)
 * [🧐 Reviewing KRD](current-ec-processes/reviewing-krd.md)
-* [🗓 Scheduling](current-ec-processes/scheduling/README.md)
+* [🗓️ Scheduling](current-ec-processes/scheduling/README.md)
   * [Financial Planning Preparatory Appointment](current-ec-processes/scheduling/financial-planning-preparatory-appointment/README.md)
     * [For Independent](current-ec-processes/scheduling/financial-planning-preparatory-appointment/for-independent/README.md)
       * [Virtual via Teams](current-ec-processes/scheduling/financial-planning-preparatory-appointment/for-independent/virtual-via-teams.md)
@@ -40,13 +40,13 @@
     * [Virtual via Phone](current-ec-processes/scheduling/financial-planning-appointment/virtual-via-phone.md)
     * [In-Person Campus](current-ec-processes/scheduling/financial-planning-appointment/in-person-campus.md)
   * [Financial Planning No Appointment Needed](current-ec-processes/scheduling/financial-planning-no-appointment-needed.md)
-* [♻ Rescheduling](current-ec-processes/rescheduling.md)
+* [♻️ Rescheduling](current-ec-processes/rescheduling.md)
 
 ## Other Useful Info
 
 * [🤐 "Can't Say" Items](other-useful-info/cant-say-items.md)
 * [⚫ Blackout Rules](other-useful-info/blackout-rules.md)
-* [🖥 Templates for CN](other-useful-info/templates-for-cn.md)
+* [🖥️ Templates for CN](other-useful-info/templates-for-cn.md)
 * [📄 Templates for Email](other-useful-info/templates-for-email/README.md)
   * [First Contact w/ FA User](other-useful-info/templates-for-email/first-contact-w-fa-user.md)
   * [REQUEST: Schedule VFPA](other-useful-info/templates-for-email/request-schedule-vfpa/README.md)
