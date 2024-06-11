@@ -1,5 +1,5 @@
 ---
-description: 'Louisville Alphabet Split: L-Z | Specialty: Kentucky Residency'
+description: 'Alphabet Split: Louisville L-Z | Specialty: Kentucky Residency'
 cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
