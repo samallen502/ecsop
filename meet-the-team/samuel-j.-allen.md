@@ -27,6 +27,8 @@ Church: [Southeast Christian Church](https://www.southeastchristian.org/) ([Blan
 
 Partner: Vanessa ([fiancée](https://www.instagram.com/p/C7kSRycO68w/))
 
+Pet(s): Dog ([Ruger, brindle miniature dachshund](https://www.instagram.com/p/8RZzBnu\_zk/))
+
 Interest(s): Decentralized Finance (DeFi) :coin:; Off-The-Grid (OTG) Living 🏕️
 
 &#x20;    :coin: Favorite DeFi Token(s): [BTC](https://coinmarketcap.com/currencies/bitcoin/); [MATIC](https://coinmarketcap.com/currencies/polygon/)
@@ -42,8 +44,6 @@ Favorite Food(s): Protein :meat\_on\_bone: :cheese:; Caffeine :coffee:
 &#x20;    :coffee: Caffeine: Preferably lattes from anywhere but [Starbucks](https://mashable.com/article/starbucks-sunsets-nft-reward-program-odyssey)
 
 Favorite Podcast(s): [Ask Pastor John](https://podcasts.apple.com/us/podcast/ask-pastor-john/id618132843); [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
-
-Pet(s): Dog ([Ruger, brindle miniature dachshund](https://www.instagram.com/p/8RZzBnu\_zk/))
 
 Alma Mater(s): 🔴⚫ [University of Louisville](https://louisville.edu/) '07 '08
 
