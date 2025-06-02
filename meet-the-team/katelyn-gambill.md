@@ -6,7 +6,7 @@ coverY: 0
 
 # 🟢 Katelyn Gambill
 
-Senior Director of Admissions — Campus: 3101 Bardstown Rd (Louisville, KY)
+Senior Director of Admissions & Retention — Campus: 3101 Bardstown Rd (Louisville, KY)
 
 Communication Preferences: :purple\_circle: Teams | :e-mail: mgambill@sullivan.edu | :telephone: (502) 628-3972
 
