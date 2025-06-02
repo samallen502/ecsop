@@ -43,6 +43,7 @@
 
 ## Other Useful Info
 
+* [🇺🇸 Military Benefits](other-useful-info/military-benefits.md)
 * [🤐 "Can't Say" Items](other-useful-info/cant-say-items.md)
 * [⚫ Blackout Rules](other-useful-info/blackout-rules.md)
 * [🖥️ Templates for CN](other-useful-info/templates-for-cn.md)
