@@ -6,11 +6,11 @@ cover: .gitbook/assets/background.png
 coverY: 0
 ---
 
-# 🧭 Enrollment Coordinator SOP
+# 🧭 EC SOP
 
 ## Welcome aboard!
 
-Welcome to the Enrollment Coordinator (EC) wiki! Here you'll find everything you need to know about the EC role — and, if not (and you are an EC), you are encouraged to make an update. 😏
+Welcome to the Enrollment Coordinator (EC) wiki! Here you'll find everything you need to know about the EC role — plus some bonus tips!
 
 {% hint style="warning" %}
 **Please write all updates to a new hire's knowledge level.  New hires will need this SOP the most.**
