@@ -21,8 +21,6 @@
 
 * [🆘 FAFSA Assistance](current-ec-processes/fafsa-assistance.md)
 * [🔍 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus.md)
-* [💰 Processing Scholarships](current-ec-processes/processing-scholarships.md)
-* [💸 Approving Discounts](current-ec-processes/approving-discounts.md)
 * [🧐 Reviewing KRD](current-ec-processes/reviewing-krd.md)
 * [🗓️ Scheduling](current-ec-processes/scheduling/README.md)
   * [Financial Planning Preparatory Appointment](current-ec-processes/scheduling/financial-planning-preparatory-appointment/README.md)
@@ -71,6 +69,8 @@
   * [👀 Reacting to AA Pinging EC](obsolete-information/old-processes/reacting-to-aa-pinging-ec.md)
   * [👣 Tracking Applicants](obsolete-information/old-processes/tracking-applicants.md)
   * [🔍 Analyzing CampusNexus circa July 2023](obsolete-information/old-processes/analyzing-campusnexus-circa-july-2023.md)
+  * [💰 Processing Scholarships](obsolete-information/old-processes/processing-scholarships.md)
+  * [💸 Approving Discounts](obsolete-information/old-processes/approving-discounts.md)
 * [📜 Old Templates](obsolete-information/old-templates.md)
 * [🪦 Old Teammates](obsolete-information/old-teammates/README.md)
   * [🟡 Amy Stokes](obsolete-information/old-teammates/amy-stokes.md)
