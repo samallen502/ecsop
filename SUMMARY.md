@@ -6,6 +6,7 @@
 
 * [🟢 Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
 * [🟢 Bobbie White](meet-the-team/bobbie-white.md)
+* [🟢 Mark Thomas](meet-the-team/mark-thomas.md)
 * [🔵 Abigail Moir](meet-the-team/abigail-moir.md)
 * [🟢 Katelyn Gambill](meet-the-team/katelyn-gambill.md)
 * [💼 Non-ECs](meet-the-team/non-ecs.md)
