@@ -15,15 +15,15 @@ Prior to engaging the applicant, qualify the applicant for help by confirming th
 
 
 
-If the applicant seeks FAFSA help but has not yet attempted FAFSA completion, empower the applicant with FAFSA completion instructions and await feedback from the applicant regarding the step on which the applicant got stuck. You may then assist. For optimal results, before assisting confirm with the applicant (and parent, if dependent) FSA ID functionality and Federal Tax Return availability (because, otherwise, the FAFSA cannot be signed digitally and there will be no failsafe should IRS DRT fail).
+If a non-applicant seeks FAFSA help, redirect the non-applicant to 1-800-4-FED-AID.
+
+
+
+If an applicant seeks FAFSA help but has not tried FAFSA completion, empower the applicant with FAFSA completion instructions and await feedback from the applicant regarding the step on which the applicant got stuck. The EC may then assist. For optimal results, before assisting confirm with the applicant (and parent, if dependent) FSA ID functionality and Federal Tax Return availability (because, otherwise, the FAFSA cannot be signed digitally and uncommon but possible questions about annual income cannot be answered).
 
 
 
 If the applicant seeks FAFSA help but is dependent for financial aid filing purposes, [FSA requires](https://studentaid.gov/help/share-fsa-id) that the parent/guardian be present.
-
-
-
-If a non-applicant seeks FAFSA help, redirect the non-applicant to 1-800-4-FED-AID.
 
 
 
