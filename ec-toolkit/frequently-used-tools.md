@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/tools.jpg
 coverY: 0
 ---
 
-# 🛠 Frequently Used Tools
+# 🛠️ Frequently Used Tools
 
 * [ ] **CampusNexus — Cloud Version**
   * [ ] Function: SIS for applicants and active students
@@ -14,7 +14,7 @@ coverY: 0
   * [ ] Launch [here](https://100552.campusnexus.cloud/logon/LogonPoint/index.html)
 * [ ] **EC SOP (2015-2022)**
   * [ ] Function: Additional insight into the evolution of the EC role and related processes
-  * [ ] Launch [here](https://sullivanedu-my.sharepoint.com/:w:/g/personal/sallen\_sullivan\_edu/EQnZ6w5JwrxBkHGryjX2zWEBZ5DlBh9apvFokcBgWd6iPw?e=Mfm5zK)
+  * [ ] Launch [here](https://sullivanedu-my.sharepoint.com/:w:/g/personal/sallen_sullivan_edu/EQnZ6w5JwrxBkHGryjX2zWEBZ5DlBh9apvFokcBgWd6iPw?e=Mfm5zK)
 * [ ] **Mitel Connect**
   * [ ] Function: Call forwarding
   * [ ] Launch [here](https://apps.sullivan.edu/RDWeb/Pages/en-US/Default.aspx)
@@ -24,9 +24,6 @@ coverY: 0
 * [ ] **Microsoft Teams**
   * [ ] Function: Interdepartmental communication; VFPA platform between FPCs and applicants
   * [ ] Launch [here](https://teams.microsoft.com/)
-* [ ] **Mongoose Cadence**
-  * [ ] Function: Texting system to communicate with applicants
-  * [ ] Launch [here](https://sms.mongooseresearch.com/#/login)
 * [ ] **RemoveSUSDepartments (**_**possibly obsolete circa October 2022**_**)**
   * [ ] Function: Allows user to upload documents to CN remotely
   * [ ] Launch [here](companyportal:ApplicationId=62784b2e-b220-48bb-857f-8d69a5c0b801)
