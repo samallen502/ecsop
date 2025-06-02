@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/alphabet_help-700x350.jpg
 coverY: -26.19047619047619
 ---
 
-# 🔤 Common Acronyms & Abbreviations
+# 🔤 Acronyms/Abbreviations
 
 * 2FA: Two-Factor Authentication
 * AA: Admissions Advisor
@@ -21,7 +21,6 @@ coverY: -26.19047619047619
 * DOB: Date Of Birth
 * DOE: Department Of Education (US Department of Education)
 * EC: Enrollment Coordinator
-* EFC: Expected Family Contribution (FAFSA score indicative of financial need)
 * ETA: Estimated Time of Arrival
 * FA: Financial Aid
 * FAFSA: Free Application for Federal Student Aid
@@ -45,6 +44,7 @@ coverY: -26.19047619047619
 * Q1Q2Q3: Quarter 1, Quarter 2, & Quarter 3 projected academic schedule
 * SADOA: Senior Associate Director of Admissions
 * SADOFP: Senior Associate Director of Financial Planning
+* SAI: Student Aid Index (Financial Aid eligibility score)
 * SCO: School Certifying Official
 * SID: Student ID
 * SOP: Standard Operating Procedure
