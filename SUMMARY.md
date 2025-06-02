@@ -62,6 +62,7 @@
     * [for IND](other-useful-info/templates-for-email/confirmation-of-vfpa/for-ind/README.md)
       * [via Phone & Email](other-useful-info/templates-for-email/confirmation-of-vfpa/for-ind/via-phone-and-email.md)
 * [📗 Staff Manual](other-useful-info/staff-manual.md)
+* [📘 2025 Academic Catalog](https://s3.amazonaws.com/sullivan-statamic-production/assets/documents/sullivan-university-2025-catalog.pdf)
 
 ## Obsolete Information
 
