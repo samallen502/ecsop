@@ -43,7 +43,13 @@
 
 ## Other Useful Info
 
-* [🇺🇸 Military Benefits](other-useful-info/military-benefits.md)
+* [🇺🇸 Military Benefits](other-useful-info/military-benefits/README.md)
+  * [Training](https://youtu.be/yxdmk4HBVdI)
+  * [General Overview](other-useful-info/military-benefits/general-overview.md)
+  * [Coverage Details](other-useful-info/military-benefits/coverage-details.md)
+  * [TA Request Windows](other-useful-info/military-benefits/ta-request-windows.md)
+  * [Military Transcript Procurement](other-useful-info/military-benefits/military-transcript-procurement.md)
+  * [Example Funding Documents](other-useful-info/military-benefits/example-funding-documents.md)
 * [🤐 "Can't Say" Items](other-useful-info/cant-say-items.md)
 * [⚫ Blackout Rules](other-useful-info/blackout-rules.md)
 * [🖥️ Templates for CN](other-useful-info/templates-for-cn.md)
