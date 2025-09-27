@@ -1,6 +1,6 @@
 ---
 description: 'Lou/Lex Alphabet Split: N/A | Specialty: Backup Enrollment Coordinator'
-cover: ../.gitbook/assets/SU header.jpg
+cover: ../../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
 
@@ -10,7 +10,7 @@ Senior Director of Admissions & Retention — Campus: 3101 Bardstown Rd (Louisvi
 
 Communication Preferences: :purple\_circle: Teams | :e-mail: mgambill@sullivan.edu | :telephone: (502) 628-3972
 
-<figure><img src="../.gitbook/assets/katelyn.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/katelyn.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Professional Bio
 

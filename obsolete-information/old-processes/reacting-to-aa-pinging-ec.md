@@ -14,7 +14,7 @@ Occasionally, an AA will ask an EC to provide an applicant with on-demand FAFSA 
 
 
 
-If the applicant seeks FAFSA help but has not yet attempted FAFSA completion, empower the applicant with FAFSA completion instructions and await feedback from the applicant regarding the step on which the applicant got stuck. You may then route this student to [SU's FAFSA Specialist](../../meet-the-team/bobbie-white.md) or, if SU's FAFSA Specialist is unavailable, assist on behalf of SU's FAFSA Specialist.
+If the applicant seeks FAFSA help but has not yet attempted FAFSA completion, empower the applicant with FAFSA completion instructions and await feedback from the applicant regarding the step on which the applicant got stuck. You may then route this student to [SU's FAFSA Specialist](../old-teammates/bobbie-white.md) or, if SU's FAFSA Specialist is unavailable, assist on behalf of SU's FAFSA Specialist.
 
 
 

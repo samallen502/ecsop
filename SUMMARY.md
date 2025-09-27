@@ -5,10 +5,8 @@
 ## Meet The Team
 
 * [🟢 Samuel J. Allen](meet-the-team/samuel-j.-allen.md)
-* [🟢 Bobbie White](meet-the-team/bobbie-white.md)
 * [🟢 Mark Thomas](meet-the-team/mark-thomas.md)
 * [🔵 Abigail Moir](meet-the-team/abigail-moir.md)
-* [🟢 Katelyn Gambill](meet-the-team/katelyn-gambill.md)
 * [💼 Non-ECs](meet-the-team/non-ecs.md)
 
 ## EC Toolkit
@@ -74,5 +72,7 @@
   * [💸 Approving Discounts](obsolete-information/old-processes/approving-discounts.md)
 * [📜 Old Templates](obsolete-information/old-templates.md)
 * [🪦 Old Teammates](obsolete-information/old-teammates/README.md)
+  * [🟢 Katelyn Gambill](obsolete-information/old-teammates/katelyn-gambill.md)
+  * [🟢 Bobbie White](obsolete-information/old-teammates/bobbie-white.md)
   * [🟡 Amy Stokes](obsolete-information/old-teammates/amy-stokes.md)
   * [⚪ Samantha Hayes](obsolete-information/old-teammates/samantha-hayes.md)

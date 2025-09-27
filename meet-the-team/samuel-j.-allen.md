@@ -1,5 +1,5 @@
 ---
-description: 'Alphabet Split: Louisville A-K | Specialty: Military Benefits'
+description: 'Alphabet Split: Louisville A-Z | Specialty: Military Benefits'
 cover: ../.gitbook/assets/btc.jpg
 coverY: 0
 ---
