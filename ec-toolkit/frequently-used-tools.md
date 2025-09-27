@@ -41,7 +41,7 @@ Working remotely but can't upload to CND? Here's a solution.
   * [ ] Launch [here](https://sullivanedu.sharepoint.com.mcas.ms/sus/admissions/Training2/Forms/AllItems.aspx?id=%2Fsus%2Fadmissions%2FTraining2%2F2022%20Product%20Knowledge%20Binder%20with%20Tuition%20Changes\&viewid=8cd30b7e-acb6-4a72-872a-553b237973e4)
 * [ ] **Sullivan University Time Clock**
   * [ ] Function: As hourly employees, you will need to punch in and out throughout the day.
-  * [ ] Launch [here](https://time.paycor.com/ess/83780)
+  * [ ] Launch [here](https://www.paylocity.com/)
 
 {% hint style="danger" %}
 During your first shift of the day, take a lunch somewhere between the 3.0-5.0 hourly marks.  It is a violation of state and federal law to take your lunch beyond the 5.0 hourly mark.
