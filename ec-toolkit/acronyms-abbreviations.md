@@ -23,9 +23,9 @@ coverY: -26.19047619047619
 * EC: Enrollment Coordinator
 * ETA: Estimated Time of Arrival
 * FA: Financial Aid
+* FAC: Financial Aid Coordinator
 * FAFSA: Free Application for Federal Student Aid
 * FPA: Financial Planning Appointment
-* FPC: Financial Planning Coordinator
 * FPPA: Financial Planning Preparatory Appointment
 * FSA: Federal Student Aid (governmental organization who oversees FAFSA)
 * GPA: Grade Point Average
