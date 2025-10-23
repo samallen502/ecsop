@@ -5,22 +5,30 @@ description: >-
   of potential state grant funding.
 ---
 
-# 🧐 Conducting KRD Reviews
+# 🧐 Reviewing KRD
+
+
 
 {% hint style="warning" %}
-Section under construction. One SOP shift (as of 1/12/2022 1:16p): when a student's certified mail receipt arrives at the university, KRD Reviewer is to scan the receipt into CampusNexus Documents under "ADM - Certified Letter Receipt" activity.&#x20;
+Section under construction.
 {% endhint %}
 
+{% file src="../.gitbook/assets/KRD Snapshot (Current 01.30.2025).pdf" %}
+ECs & AAs may share this with applicants starting before 2/1/2026. Designed by EC Samuel J. Allen.
+{% endfile %}
 
+{% file src="../.gitbook/assets/KRD Reviewer Training (Current 2024.12.11).pptx" %}
+Used for training purposes as recently as 6/9/2025. Authored by Kelley Hornback of SU Quality Assurance.
+{% endfile %}
+
+{% file src="../.gitbook/assets/KRD Technical Reference Guide (Current 2024.12.12).pdf" %}
+Used for training purposes as recently as 6/9/2025. Authored by Kelley Hornback of SU Quality Assurance.
+{% endfile %}
+
+{% file src="../.gitbook/assets/13 KAR 2.045.pdf" %}
+Familiarize yourself with 13 KAR 2:045, the state statute SU is required to enforce.
+{% endfile %}
 
 {% file src="../.gitbook/assets/KRDSOP07272020.pdf" %}
-This links to the KRD SOP that was used circa 2020-21.  It's largely still current as of 7/6/2022.
-{% endfile %}
-
-{% file src="../.gitbook/assets/KRD Snapshot (Current 03.01.2022).pdf" %}
-ECs & AAs may share this with applicants starting before 2/1/2023.
-{% endfile %}
-
-{% file src="../.gitbook/assets/KRD - COPPA July 2023 Start Remix.pdf" %}
-ECs & AAs may share this with applicants starting 2/2/2023-2/1/2024 (but retitling is recommended).
+Obsolete since approximately 7/6/2022. This links to the KRD SOP that was used circa 2020-21. Authored by former EC Yolandi Kotze.
 {% endfile %}
