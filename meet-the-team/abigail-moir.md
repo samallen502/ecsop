@@ -8,7 +8,7 @@ coverY: 0
 
 Enrollment Coordinator — Campus: 2355 Harrodsburg Rd (Lexington, KY)
 
-Communication Preferences: :purple\_circle: Teams | :e-mail: amoir@sullivan.edu | :telephone: TBD
+Communication Preferences: :purple\_circle: Teams | :e-mail: amoir@sullivan.edu | :telephone: (859) 514-7650
 
 <figure><img src="../.gitbook/assets/unisex-avatar.png" alt=""><figcaption></figcaption></figure>
 
