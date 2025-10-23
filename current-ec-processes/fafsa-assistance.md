@@ -27,5 +27,5 @@ If the applicant seeks FAFSA help but is dependent for financial aid filing purp
 
 
 
-**The only time you should deviate from the above is two weeks before and after an applicant's intended academic start date.**
+**The only time you should deviate from the above four paragraphs (never the fifth paragraph) is two weeks before and after an applicant's intended academic start date.**
 {% endhint %}
