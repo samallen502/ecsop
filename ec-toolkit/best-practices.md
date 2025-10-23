@@ -18,12 +18,22 @@ coverY: 0
 * [ ] Whenever you upload to CampusNexus Documents, always confirm that the uploaded document is viewable.
 * [ ] "Trust but verify!" When an AA tells you that an applicant is VFPA-ready, do your due diligence by executing the ANALYSIS & NEXT procedural checks.&#x20;
 * [ ] Within Velocify, keep ANALYSIS & NEXT notes updated constantly so that you or the AA can quickly CTRL-F for "NEXT" at any point and determine what comes next procedurally.  These notes require an up-front time investment initially but will serve you and your teammates well afterwards.
-* [ ] If applicant is 2-2.5 weeks away from academic start and applicant intends to use FA, harvest FAFSA Confirmation Page Email(s) and upload those to CND (as the emails can substitute for ISIRs).
+* [ ] If applicant is 2-2.5 weeks away from academic start and applicant intends to use FA, harvest FAFSA Confirmation Page Email(s), confirm that a numerical Student Aid Index (SAI) shows, and upload the email(s) to CND (as the emails can temporarily substitute for ISIRs).
+  * [ ] Example:\
+    From: U.S. Department of Education <[donotreply@studentaid.gov](mailto:donotreply@studentaid.gov)>\
+    Date: Wed, Sep 24, 2025 at 10:32 PM\
+    Subject: We Received Your 2026–27 FAFSA Form
 * [ ] Always hesitate to disclose applicant information to any third parties. Third parties must be authorized on the applicant's FERPA Form (see last page of applicant's application).
-* [ ] Don't say "default" or "dependency override" but do say, "I'm going to pair you with a specialist in Financial Planning who may be able to help you access financial aid."
+* [ ] Don't say "default" or "dependency override" but do say, "I'm going to pair you with a specialist in Financial Aid who may be able to help you access financial aid."
 * [ ] Maximize time by leveraging email to communicate lengthier and more detailed ideas (such as setting up Virtual Financial Planning Appointments) via email, then draw attention to that email later by replying, sending texts with the timestamp, leaving voicemails to check an inbox for emails from a certain name sent on a certain day, etc.
 * [ ] Any time you craft an email to the student, keep the "To" line blank. If you accidentally trigger sending, a failsafe will be in place.
-* [ ] If you accidentally send an email to an \*@sullivan.edu address, you can always retract.  However, retraction outside of the network does not work, so you're better off re-sending with "CORRECTION" leading the subject line.
+*   [ ] If you accidentally send an email to an \*@sullivan.edu address, you can always retract.  However, retraction outside of the network does not work, so you're better off re-sending with "CORRECTION" leading the subject line.
+
+    * [ ] To retract an email and issue a correction, do the following:
+
+    <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 |   |
 | - |
