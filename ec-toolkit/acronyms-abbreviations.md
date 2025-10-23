@@ -39,7 +39,7 @@ coverY: -26.19047619047619
 * KRD: Kentucky Residency Determination
 * ML: Military Liaison
 * NDS: Non-Degree Seeking
-* PDF: Portable Document Format (file type native to Adobe Acrobat Reader and preferred for CND uploads due to its universality across platforms)
+* PDF: Portable Document Format (file type native to Adobe Acrobat Reader and required for CND uploads due to its lack of security vulnerabilities and universality across platforms)
 * PLUS: Parent Loan for Undergraduate Students
 * Q1Q2Q3: Quarter 1, Quarter 2, & Quarter 3 projected academic schedule
 * SADOA: Senior Associate Director of Admissions
