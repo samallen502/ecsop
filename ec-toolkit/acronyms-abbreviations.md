@@ -8,7 +8,7 @@ coverY: -26.19047619047619
 
 * 2FA: Two-Factor Authentication
 * AA: Admissions Advisor
-* ADMGenCom: "ADM - General Comments" activity within CampusNexus (AA's interview notes)
+* ADMGenCom: "ADM - General Comments" (AA's interview notes) activity within CNA
 * ADOA: Associate Director of Admissions
 * CGPA: Cumulative Grade Point Average
 * CN: CampusNexus
@@ -39,6 +39,7 @@ coverY: -26.19047619047619
 * KRD: Kentucky Residency Determination
 * ML: Military Liaison
 * NDS: Non-Degree Seeking
+* NewStudVer: 'ADM - New Student Verification Worksheet' on file within CND&#x20;
 * PDF: Portable Document Format (file type native to Adobe Acrobat Reader and required for CND uploads due to its lack of security vulnerabilities and universality across platforms)
 * PLUS: Parent Loan for Undergraduate Students
 * Q1Q2Q3: Quarter 1, Quarter 2, & Quarter 3 projected academic schedule
