@@ -17,9 +17,10 @@
 
 ## Current EC Processes
 
+* [🎓 Processing Alumni Discounts](current-ec-processes/processing-alumni-discounts.md)
+* [🧐 Reviewing KRD](current-ec-processes/reviewing-krd.md)
 * [🆘 FAFSA Assistance](current-ec-processes/fafsa-assistance.md)
 * [🔍 Analyzing CampusNexus](current-ec-processes/analyzing-campusnexus.md)
-* [🧐 Reviewing KRD](current-ec-processes/reviewing-krd.md)
 * [🗓️ Scheduling](current-ec-processes/scheduling/README.md)
   * [Financial Planning Preparatory Appointment](current-ec-processes/scheduling/financial-planning-preparatory-appointment/README.md)
     * [For Independent](current-ec-processes/scheduling/financial-planning-preparatory-appointment/for-independent/README.md)
