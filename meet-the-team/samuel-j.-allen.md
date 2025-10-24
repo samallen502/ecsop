@@ -23,7 +23,7 @@ Sam was hired December 2010. Sam's work style can best be described as applying 
 {% hint style="info" %}
 Home(s): [Louisville, KY](https://en.wikipedia.org/wiki/Louisville,_Kentucky)
 
-Church: [Southeast Christian Church](https://www.southeastchristian.org/) ([Blankenbaker](https://my.southeastchristian.org/location/blankenbaker) & [SE Online](https://online.southeastchristian.org/))
+Church: [Southeast Christian Church](https://www.southeastchristian.org/) (Blankenbaker & SE Online)
 
 Partner: Vanessa ([wife](https://www.linkedin.com/in/vanessawyn/))
 
@@ -31,7 +31,7 @@ Interest(s): Bitcoin :coin:; homesteading 🏕️ ; hiking 🥾; birding 🐦; s
 
 Favorite Snack(s): Starbucks' flat white with coconut milk, blonde espresso, and cinnamon :coffee:
 
-Favorite Podcast(s): [Ask Pastor John](https://podcasts.apple.com/us/podcast/ask-pastor-john/id618132843); [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
+Favorite Podcast(s): [History 102](https://podcasts.apple.com/us/podcast/history-102-with-whatifalthists-rudyard-lynch-and/id1730633913); [Ask Pastor John](https://podcasts.apple.com/us/podcast/ask-pastor-john/id618132843); [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
 
 Alma Mater(s): 🔴⚫ [University of Louisville](https://louisville.edu/) '07 '08
 
