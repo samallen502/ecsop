@@ -27,7 +27,7 @@ Church: [Southeast Christian Church](https://www.southeastchristian.org/) (Blank
 
 Partner: Vanessa ([wife](https://www.linkedin.com/in/vanessawyn/))
 
-Interest(s): Bitcoin :coin:; homesteading 🏕️ ; hiking 🥾; birding 🐦; serving as a KY Colonel 🎖️                              &#x20;
+Interest(s): Bitcoin :coin:; homesteading 🏕️ ; hiking 🥾; birding 🐦; genealogy 🧬; KY Colonelcy 🎖️                              &#x20;
 
 Favorite Snack(s): Starbucks' flat white with coconut milk, blonde espresso, and cinnamon :coffee:
 
