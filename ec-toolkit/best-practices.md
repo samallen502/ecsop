@@ -18,6 +18,7 @@ coverY: 0
 * [ ] Whenever you upload to CampusNexus Documents, always confirm that the uploaded document is viewable.
 * [ ] "Trust but verify!" When an AA tells you that an applicant is VFPA-ready, do your due diligence by executing the ANALYSIS & NEXT procedural checks.&#x20;
 * [ ] Within Velocify, keep ANALYSIS & NEXT notes updated constantly so that you or the AA can quickly CTRL-F for "NEXT" at any point and determine what comes next procedurally.  These notes require an up-front time investment initially but will serve you and your teammates well afterwards.
+* [ ] Within Velocify, leverage brackets to summarize lengthy notes. Example: "\[VFPA SETUP REQUEST]"
 * [ ] If applicant is 2-2.5 weeks away from academic start and applicant intends to use FA, harvest FAFSA Confirmation Page Email(s), confirm that a numerical Student Aid Index (SAI) shows, and upload the email(s) to CND (as the emails can temporarily substitute for ISIRs).
   * [ ] Example:\
     From: U.S. Department of Education <[donotreply@studentaid.gov](mailto:donotreply@studentaid.gov)>\
