@@ -1,5 +1,5 @@
 ---
-description: 'Alphabet Split: Louisville A-Z | Specialty: Military Benefits'
+description: 'Caseload: Louisville A-Z sans Allied Health | Specialty: Military Benefits'
 cover: ../.gitbook/assets/btc.jpg
 coverY: 0
 ---
