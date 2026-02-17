@@ -15,7 +15,7 @@ Communication Preferences: :purple\_circle: Teams | :e-mail: sallen@sullivan.edu
 ## Professional Bio
 
 {% hint style="info" %}
-Sam was hired December 2010. Sam's work style can best be described as applying due diligence, then executing next steps — in that order (because Sam believes that the ECs truly should be called Chaos Controllers, therefore Sam sees but 2 ways to perform any task: correctly; and again). Sam also strongly believes in solving problems with a "tech first" approach, so Sam is quick to log activity notes within shared databases or provide FAFSA help remotely by default. Sam created the original Kentucky Residency Determination (KRD) process, the original EC SOP, and this reimagined EC SOP. Sam also became a Military Liaison circa April 2019, 4 months after concluding 21 months of service as SU's Project Manager, merging multiple campuses into one. For more information about Sam's work history, including awards earned while with SU, see [LinkedIn](https://www.linkedin.com/in/samueljustinallen/).
+Sam is the Sullivan University System's senior ranking EC, hired December 2010. Sam's work style can best be described as applying due diligence, then executing next steps — in that order. Sam also strongly believes in solving problems with a "tech first" approach, so Sam is quick to log activity notes within shared databases or provide FAFSA help remotely by default. Sam created the original Kentucky Residency Determination (KRD) process, the original EC SOP, and this reimagined EC SOP. Sam also became a Military Liaison circa April 2019, 4 months after concluding 21 months of service as SU's Project Manager, merging multiple campuses into one. For more information about Sam's work history, including awards earned while with SU, see [LinkedIn](https://www.linkedin.com/in/samueljustinallen/).
 {% endhint %}
 
 ## Personal Bio
@@ -25,7 +25,7 @@ Home(s): [Louisville, KY](https://en.wikipedia.org/wiki/Louisville,_Kentucky)
 
 Church: [Southeast Christian Church](https://www.southeastchristian.org/) (Blankenbaker & SE Online)
 
-Partner: Vanessa ([wife](https://www.linkedin.com/in/vanessawyn/))
+Wife: [Vanessa](https://www.linkedin.com/in/vanessanallen)
 
 Interest(s): Bitcoin :coin:; homesteading 🏕️ ; hiking 🥾; birding 🐦; genealogy 🧬; KY Colonelcy 🎖️                              &#x20;
 
