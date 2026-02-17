@@ -1,5 +1,5 @@
 ---
-description: 'Alphabet Split: DuPont A-Z | Specialty: Exam Proctor'
+description: 'Caseload: DuPont A-Z & Re-Entry | Specialty: Exam Proctor'
 cover: ../.gitbook/assets/SU header.jpg
 coverY: 0
 ---
