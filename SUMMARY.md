@@ -40,7 +40,7 @@
 
 ## Other Useful Info
 
-* [🇺🇸 Military Benefits](other-useful-info/military-benefits/README.md)
+* [🪖 Military Benefits](other-useful-info/military-benefits/README.md)
   * [Training](https://youtu.be/yxdmk4HBVdI)
   * [General Overview](other-useful-info/military-benefits/general-overview.md)
   * [Coverage Details](other-useful-info/military-benefits/coverage-details.md)
