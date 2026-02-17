@@ -6,7 +6,7 @@ coverY: 0
 
 # 🟢 Samuel J. Allen
 
-Enrollment Coordinator & Military Liaison :flag\_us: — Campus: 3101 Bardstown Rd (Louisville, KY)
+Enrollment Coordinator & Military Liaison — Campus: 3101 Bardstown Rd (Louisville, KY)
 
 Communication Preferences: :purple\_circle: Teams | :e-mail: sallen@sullivan.edu | :telephone: (502) 413-8565
 

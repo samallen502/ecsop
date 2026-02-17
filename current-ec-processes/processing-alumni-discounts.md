@@ -1,3 +1,9 @@
+---
+description: >-
+  As of 2/17/2026, Sam Allen oversess all alumni discount approval requests
+  system-wide.
+---
+
 # 🎓 Processing Alumni Discounts
 
 {% hint style="danger" %}
